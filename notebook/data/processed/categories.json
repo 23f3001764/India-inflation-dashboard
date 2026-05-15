@@ -1,0 +1,37 @@
+[
+  {
+    "category": "General Index",
+    "index_val": 198.0,
+    "inflation": 1.33
+  },
+  {
+    "category": "Food and beverages",
+    "index_val": 202.1,
+    "inflation": -1.85
+  },
+  {
+    "category": "Clothing and footwear",
+    "index_val": 197.6,
+    "inflation": 1.44
+  },
+  {
+    "category": "Housing",
+    "index_val": 186.9,
+    "inflation": 2.86
+  },
+  {
+    "category": "Fuel and light",
+    "index_val": 181.3,
+    "inflation": 1.97
+  },
+  {
+    "category": "Miscellaneous",
+    "index_val": 198.0,
+    "inflation": 6.17
+  },
+  {
+    "category": "Consumer Food Price Index",
+    "index_val": 201.1,
+    "inflation": -2.71
+  }
+]

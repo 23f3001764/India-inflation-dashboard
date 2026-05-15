@@ -1,0 +1,74 @@
+[
+  {
+    "year": 2014,
+    "avg_combined": 6.71,
+    "avg_rural": 6.85,
+    "avg_urban": 6.57
+  },
+  {
+    "year": 2015,
+    "avg_combined": 4.91,
+    "avg_rural": 5.45,
+    "avg_urban": 4.25
+  },
+  {
+    "year": 2016,
+    "avg_combined": 4.96,
+    "avg_rural": 5.62,
+    "avg_urban": 4.23
+  },
+  {
+    "year": 2017,
+    "avg_combined": 3.33,
+    "avg_rural": 3.32,
+    "avg_urban": 3.31
+  },
+  {
+    "year": 2018,
+    "avg_combined": 3.96,
+    "avg_rural": 3.78,
+    "avg_urban": 4.19
+  },
+  {
+    "year": 2019,
+    "avg_combined": 3.71,
+    "avg_rural": 2.94,
+    "avg_urban": 4.62
+  },
+  {
+    "year": 2020,
+    "avg_combined": 6.63,
+    "avg_rural": 6.67,
+    "avg_urban": 6.62
+  },
+  {
+    "year": 2021,
+    "avg_combined": 5.14,
+    "avg_rural": 4.76,
+    "avg_urban": 5.57
+  },
+  {
+    "year": 2022,
+    "avg_combined": 6.7,
+    "avg_rural": 6.94,
+    "avg_urban": 6.4
+  },
+  {
+    "year": 2023,
+    "avg_combined": 5.66,
+    "avg_rural": 5.8,
+    "avg_urban": 5.49
+  },
+  {
+    "year": 2024,
+    "avg_combined": 4.95,
+    "avg_rural": 5.43,
+    "avg_urban": 4.4
+  },
+  {
+    "year": 2025,
+    "avg_combined": 2.22,
+    "avg_rural": 1.95,
+    "avg_urban": 2.53
+  }
+]

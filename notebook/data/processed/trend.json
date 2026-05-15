@@ -1,0 +1,1406 @@
+[
+  {
+    "date": "2013-01",
+    "rural_index": 105.1,
+    "urban_index": 104.0,
+    "combined_index": 104.6,
+    "rural_inflation": null,
+    "urban_inflation": null,
+    "combined_inflation": null
+  },
+  {
+    "date": "2013-02",
+    "rural_index": 105.8,
+    "urban_index": 104.7,
+    "combined_index": 105.3,
+    "rural_inflation": null,
+    "urban_inflation": null,
+    "combined_inflation": null
+  },
+  {
+    "date": "2013-03",
+    "rural_index": 106.0,
+    "urban_index": 105.0,
+    "combined_index": 105.5,
+    "rural_inflation": null,
+    "urban_inflation": null,
+    "combined_inflation": null
+  },
+  {
+    "date": "2013-04",
+    "rural_index": 106.4,
+    "urban_index": 105.7,
+    "combined_index": 106.1,
+    "rural_inflation": null,
+    "urban_inflation": null,
+    "combined_inflation": null
+  },
+  {
+    "date": "2013-05",
+    "rural_index": 107.2,
+    "urban_index": 106.6,
+    "combined_index": 106.9,
+    "rural_inflation": null,
+    "urban_inflation": null,
+    "combined_inflation": null
+  },
+  {
+    "date": "2013-06",
+    "rural_index": 108.9,
+    "urban_index": 109.7,
+    "combined_index": 109.3,
+    "rural_inflation": null,
+    "urban_inflation": null,
+    "combined_inflation": null
+  },
+  {
+    "date": "2013-07",
+    "rural_index": 110.7,
+    "urban_index": 111.4,
+    "combined_index": 111.0,
+    "rural_inflation": null,
+    "urban_inflation": null,
+    "combined_inflation": null
+  },
+  {
+    "date": "2013-08",
+    "rural_index": 112.1,
+    "urban_index": 112.7,
+    "combined_index": 112.4,
+    "rural_inflation": null,
+    "urban_inflation": null,
+    "combined_inflation": null
+  },
+  {
+    "date": "2013-09",
+    "rural_index": 114.2,
+    "urban_index": 113.2,
+    "combined_index": 113.7,
+    "rural_inflation": null,
+    "urban_inflation": null,
+    "combined_inflation": null
+  },
+  {
+    "date": "2013-10",
+    "rural_index": 115.5,
+    "urban_index": 114.0,
+    "combined_index": 114.8,
+    "rural_inflation": null,
+    "urban_inflation": null,
+    "combined_inflation": null
+  },
+  {
+    "date": "2013-11",
+    "rural_index": 117.4,
+    "urban_index": 115.0,
+    "combined_index": 116.3,
+    "rural_inflation": null,
+    "urban_inflation": null,
+    "combined_inflation": null
+  },
+  {
+    "date": "2013-12",
+    "rural_index": 115.5,
+    "urban_index": 113.3,
+    "combined_index": 114.5,
+    "rural_inflation": null,
+    "urban_inflation": null,
+    "combined_inflation": null
+  },
+  {
+    "date": "2014-01",
+    "rural_index": 114.2,
+    "urban_index": 112.9,
+    "combined_index": 113.6,
+    "rural_inflation": 8.66,
+    "urban_inflation": 8.56,
+    "combined_inflation": 8.6
+  },
+  {
+    "date": "2014-02",
+    "rural_index": 114.0,
+    "urban_index": 113.1,
+    "combined_index": 113.6,
+    "rural_inflation": 7.75,
+    "urban_inflation": 8.02,
+    "combined_inflation": 7.88
+  },
+  {
+    "date": "2014-03",
+    "rural_index": 114.6,
+    "urban_index": 113.7,
+    "combined_index": 114.2,
+    "rural_inflation": 8.11,
+    "urban_inflation": 8.29,
+    "combined_inflation": 8.25
+  },
+  {
+    "date": "2014-04",
+    "rural_index": 115.4,
+    "urban_index": 114.7,
+    "combined_index": 115.1,
+    "rural_inflation": 8.46,
+    "urban_inflation": 8.51,
+    "combined_inflation": 8.48
+  },
+  {
+    "date": "2014-05",
+    "rural_index": 116.0,
+    "urban_index": 115.6,
+    "combined_index": 115.8,
+    "rural_inflation": 8.21,
+    "urban_inflation": 8.44,
+    "combined_inflation": 8.33
+  },
+  {
+    "date": "2014-06",
+    "rural_index": 117.0,
+    "urban_index": 116.4,
+    "combined_index": 116.7,
+    "rural_inflation": 7.44,
+    "urban_inflation": 6.11,
+    "combined_inflation": 6.77
+  },
+  {
+    "date": "2014-07",
+    "rural_index": 119.5,
+    "urban_index": 118.9,
+    "combined_index": 119.2,
+    "rural_inflation": 7.95,
+    "urban_inflation": 6.73,
+    "combined_inflation": 7.39
+  },
+  {
+    "date": "2014-08",
+    "rural_index": 120.7,
+    "urban_index": 119.9,
+    "combined_index": 120.3,
+    "rural_inflation": 7.67,
+    "urban_inflation": 6.39,
+    "combined_inflation": 7.03
+  },
+  {
+    "date": "2014-09",
+    "rural_index": 120.9,
+    "urban_index": 119.2,
+    "combined_index": 120.1,
+    "rural_inflation": 5.87,
+    "urban_inflation": 5.3,
+    "combined_inflation": 5.63
+  },
+  {
+    "date": "2014-10",
+    "rural_index": 121.0,
+    "urban_index": 119.1,
+    "combined_index": 120.1,
+    "rural_inflation": 4.76,
+    "urban_inflation": 4.47,
+    "combined_inflation": 4.62
+  },
+  {
+    "date": "2014-11",
+    "rural_index": 121.1,
+    "urban_index": 119.0,
+    "combined_index": 120.1,
+    "rural_inflation": 3.15,
+    "urban_inflation": 3.48,
+    "combined_inflation": 3.27
+  },
+  {
+    "date": "2014-12",
+    "rural_index": 120.3,
+    "urban_index": 118.4,
+    "combined_index": 119.4,
+    "rural_inflation": 4.16,
+    "urban_inflation": 4.5,
+    "combined_inflation": 4.28
+  },
+  {
+    "date": "2015-01",
+    "rural_index": 120.3,
+    "urban_index": 118.5,
+    "combined_index": 119.5,
+    "rural_inflation": 5.34,
+    "urban_inflation": 4.96,
+    "combined_inflation": 5.19
+  },
+  {
+    "date": "2015-02",
+    "rural_index": 120.6,
+    "urban_index": 118.7,
+    "combined_index": 119.7,
+    "rural_inflation": 5.79,
+    "urban_inflation": 4.95,
+    "combined_inflation": 5.37
+  },
+  {
+    "date": "2015-03",
+    "rural_index": 121.1,
+    "urban_index": 119.1,
+    "combined_index": 120.2,
+    "rural_inflation": 5.67,
+    "urban_inflation": 4.75,
+    "combined_inflation": 5.25
+  },
+  {
+    "date": "2015-04",
+    "rural_index": 121.5,
+    "urban_index": 119.7,
+    "combined_index": 120.7,
+    "rural_inflation": 5.29,
+    "urban_inflation": 4.36,
+    "combined_inflation": 4.87
+  },
+  {
+    "date": "2015-05",
+    "rural_index": 122.4,
+    "urban_index": 120.7,
+    "combined_index": 121.6,
+    "rural_inflation": 5.52,
+    "urban_inflation": 4.41,
+    "combined_inflation": 5.01
+  },
+  {
+    "date": "2015-06",
+    "rural_index": 124.1,
+    "urban_index": 121.7,
+    "combined_index": 123.0,
+    "rural_inflation": 6.07,
+    "urban_inflation": 4.55,
+    "combined_inflation": 5.4
+  },
+  {
+    "date": "2015-07",
+    "rural_index": 124.7,
+    "urban_index": 122.4,
+    "combined_index": 123.6,
+    "rural_inflation": 4.35,
+    "urban_inflation": 2.94,
+    "combined_inflation": 3.69
+  },
+  {
+    "date": "2015-08",
+    "rural_index": 126.1,
+    "urban_index": 123.2,
+    "combined_index": 124.8,
+    "rural_inflation": 4.47,
+    "urban_inflation": 2.75,
+    "combined_inflation": 3.74
+  },
+  {
+    "date": "2015-09",
+    "rural_index": 127.0,
+    "urban_index": 123.5,
+    "combined_index": 125.4,
+    "rural_inflation": 5.05,
+    "urban_inflation": 3.61,
+    "combined_inflation": 4.41
+  },
+  {
+    "date": "2015-10",
+    "rural_index": 127.7,
+    "urban_index": 124.2,
+    "combined_index": 126.1,
+    "rural_inflation": 5.54,
+    "urban_inflation": 4.28,
+    "combined_inflation": 5.0
+  },
+  {
+    "date": "2015-11",
+    "rural_index": 128.3,
+    "urban_index": 124.6,
+    "combined_index": 126.6,
+    "rural_inflation": 5.95,
+    "urban_inflation": 4.71,
+    "combined_inflation": 5.41
+  },
+  {
+    "date": "2015-12",
+    "rural_index": 127.9,
+    "urban_index": 124.0,
+    "combined_index": 126.1,
+    "rural_inflation": 6.32,
+    "urban_inflation": 4.73,
+    "combined_inflation": 5.61
+  },
+  {
+    "date": "2016-01",
+    "rural_index": 128.1,
+    "urban_index": 124.2,
+    "combined_index": 126.3,
+    "rural_inflation": 6.48,
+    "urban_inflation": 4.81,
+    "combined_inflation": 5.69
+  },
+  {
+    "date": "2016-02",
+    "rural_index": 127.9,
+    "urban_index": 123.8,
+    "combined_index": 126.0,
+    "rural_inflation": 6.05,
+    "urban_inflation": 4.3,
+    "combined_inflation": 5.26
+  },
+  {
+    "date": "2016-03",
+    "rural_index": 128.0,
+    "urban_index": 123.8,
+    "combined_index": 126.0,
+    "rural_inflation": 5.7,
+    "urban_inflation": 3.95,
+    "combined_inflation": 4.83
+  },
+  {
+    "date": "2016-04",
+    "rural_index": 129.0,
+    "urban_index": 125.3,
+    "combined_index": 127.3,
+    "rural_inflation": 6.17,
+    "urban_inflation": 4.68,
+    "combined_inflation": 5.47
+  },
+  {
+    "date": "2016-05",
+    "rural_index": 130.3,
+    "urban_index": 126.6,
+    "combined_index": 128.6,
+    "rural_inflation": 6.45,
+    "urban_inflation": 4.89,
+    "combined_inflation": 5.76
+  },
+  {
+    "date": "2016-06",
+    "rural_index": 131.9,
+    "urban_index": 128.1,
+    "combined_index": 130.1,
+    "rural_inflation": 6.29,
+    "urban_inflation": 5.26,
+    "combined_inflation": 5.77
+  },
+  {
+    "date": "2016-07",
+    "rural_index": 133.0,
+    "urban_index": 129.0,
+    "combined_index": 131.1,
+    "rural_inflation": 6.66,
+    "urban_inflation": 5.39,
+    "combined_inflation": 6.07
+  },
+  {
+    "date": "2016-08",
+    "rural_index": 133.5,
+    "urban_index": 128.4,
+    "combined_index": 131.1,
+    "rural_inflation": 5.87,
+    "urban_inflation": 4.22,
+    "combined_inflation": 5.05
+  },
+  {
+    "date": "2016-09",
+    "rural_index": 133.4,
+    "urban_index": 128.0,
+    "combined_index": 130.9,
+    "rural_inflation": 5.04,
+    "urban_inflation": 3.64,
+    "combined_inflation": 4.39
+  },
+  {
+    "date": "2016-10",
+    "rural_index": 133.8,
+    "urban_index": 128.6,
+    "combined_index": 131.4,
+    "rural_inflation": 4.78,
+    "urban_inflation": 3.54,
+    "combined_inflation": 4.2
+  },
+  {
+    "date": "2016-11",
+    "rural_index": 133.6,
+    "urban_index": 128.5,
+    "combined_index": 131.2,
+    "rural_inflation": 4.13,
+    "urban_inflation": 3.13,
+    "combined_inflation": 3.63
+  },
+  {
+    "date": "2016-12",
+    "rural_index": 132.8,
+    "urban_index": 127.6,
+    "combined_index": 130.4,
+    "rural_inflation": 3.83,
+    "urban_inflation": 2.9,
+    "combined_inflation": 3.41
+  },
+  {
+    "date": "2017-01",
+    "rural_index": 132.4,
+    "urban_index": 127.8,
+    "combined_index": 130.3,
+    "rural_inflation": 3.36,
+    "urban_inflation": 2.9,
+    "combined_inflation": 3.17
+  },
+  {
+    "date": "2017-02",
+    "rural_index": 132.6,
+    "urban_index": 128.2,
+    "combined_index": 130.6,
+    "rural_inflation": 3.67,
+    "urban_inflation": 3.55,
+    "combined_inflation": 3.65
+  },
+  {
+    "date": "2017-03",
+    "rural_index": 132.8,
+    "urban_index": 128.7,
+    "combined_index": 130.9,
+    "rural_inflation": 3.75,
+    "urban_inflation": 3.96,
+    "combined_inflation": 3.89
+  },
+  {
+    "date": "2017-04",
+    "rural_index": 132.9,
+    "urban_index": 129.1,
+    "combined_index": 131.1,
+    "rural_inflation": 3.02,
+    "urban_inflation": 3.03,
+    "combined_inflation": 2.99
+  },
+  {
+    "date": "2017-05",
+    "rural_index": 133.3,
+    "urban_index": 129.3,
+    "combined_index": 131.4,
+    "rural_inflation": 2.3,
+    "urban_inflation": 2.13,
+    "combined_inflation": 2.18
+  },
+  {
+    "date": "2017-06",
+    "rural_index": 133.9,
+    "urban_index": 129.9,
+    "combined_index": 132.0,
+    "rural_inflation": 1.52,
+    "urban_inflation": 1.41,
+    "combined_inflation": 1.46
+  },
+  {
+    "date": "2017-07",
+    "rural_index": 136.2,
+    "urban_index": 131.8,
+    "combined_index": 134.2,
+    "rural_inflation": 2.41,
+    "urban_inflation": 2.17,
+    "combined_inflation": 2.36
+  },
+  {
+    "date": "2017-08",
+    "rural_index": 137.8,
+    "urban_index": 132.7,
+    "combined_index": 135.4,
+    "rural_inflation": 3.22,
+    "urban_inflation": 3.35,
+    "combined_inflation": 3.28
+  },
+  {
+    "date": "2017-09",
+    "rural_index": 137.6,
+    "urban_index": 132.4,
+    "combined_index": 135.2,
+    "rural_inflation": 3.15,
+    "urban_inflation": 3.44,
+    "combined_inflation": 3.28
+  },
+  {
+    "date": "2017-10",
+    "rural_index": 138.3,
+    "urban_index": 133.5,
+    "combined_index": 136.1,
+    "rural_inflation": 3.36,
+    "urban_inflation": 3.81,
+    "combined_inflation": 3.58
+  },
+  {
+    "date": "2017-11",
+    "rural_index": 140.0,
+    "urban_index": 134.8,
+    "combined_index": 137.6,
+    "rural_inflation": 4.79,
+    "urban_inflation": 4.9,
+    "combined_inflation": 4.88
+  },
+  {
+    "date": "2017-12",
+    "rural_index": 139.8,
+    "urban_index": 134.1,
+    "combined_index": 137.2,
+    "rural_inflation": 5.27,
+    "urban_inflation": 5.09,
+    "combined_inflation": 5.21
+  },
+  {
+    "date": "2018-01",
+    "rural_index": 139.3,
+    "urban_index": 134.1,
+    "combined_index": 136.9,
+    "rural_inflation": 5.21,
+    "urban_inflation": 4.93,
+    "combined_inflation": 5.07
+  },
+  {
+    "date": "2018-02",
+    "rural_index": 138.5,
+    "urban_index": 134.0,
+    "combined_index": 136.4,
+    "rural_inflation": 4.45,
+    "urban_inflation": 4.52,
+    "combined_inflation": 4.44
+  },
+  {
+    "date": "2018-03",
+    "rural_index": 138.7,
+    "urban_index": 134.0,
+    "combined_index": 136.5,
+    "rural_inflation": 4.44,
+    "urban_inflation": 4.12,
+    "combined_inflation": 4.28
+  },
+  {
+    "date": "2018-04",
+    "rural_index": 139.1,
+    "urban_index": 134.8,
+    "combined_index": 137.1,
+    "rural_inflation": 4.67,
+    "urban_inflation": 4.42,
+    "combined_inflation": 4.58
+  },
+  {
+    "date": "2018-05",
+    "rural_index": 139.8,
+    "urban_index": 135.4,
+    "combined_index": 137.8,
+    "rural_inflation": 4.88,
+    "urban_inflation": 4.72,
+    "combined_inflation": 4.87
+  },
+  {
+    "date": "2018-06",
+    "rural_index": 140.5,
+    "urban_index": 136.2,
+    "combined_index": 138.5,
+    "rural_inflation": 4.93,
+    "urban_inflation": 4.85,
+    "combined_inflation": 4.92
+  },
+  {
+    "date": "2018-07",
+    "rural_index": 141.8,
+    "urban_index": 137.5,
+    "combined_index": 139.8,
+    "rural_inflation": 4.11,
+    "urban_inflation": 4.32,
+    "combined_inflation": 4.17
+  },
+  {
+    "date": "2018-08",
+    "rural_index": 142.5,
+    "urban_index": 138.0,
+    "combined_index": 140.4,
+    "rural_inflation": 3.41,
+    "urban_inflation": 3.99,
+    "combined_inflation": 3.69
+  },
+  {
+    "date": "2018-09",
+    "rural_index": 142.1,
+    "urban_index": 138.1,
+    "combined_index": 140.2,
+    "rural_inflation": 3.27,
+    "urban_inflation": 4.31,
+    "combined_inflation": 3.7
+  },
+  {
+    "date": "2018-10",
+    "rural_index": 142.2,
+    "urban_index": 138.9,
+    "combined_index": 140.7,
+    "rural_inflation": 2.82,
+    "urban_inflation": 4.04,
+    "combined_inflation": 3.38
+  },
+  {
+    "date": "2018-11",
+    "rural_index": 142.4,
+    "urban_index": 139.0,
+    "combined_index": 140.8,
+    "rural_inflation": 1.71,
+    "urban_inflation": 3.12,
+    "combined_inflation": 2.33
+  },
+  {
+    "date": "2018-12",
+    "rural_index": 141.9,
+    "urban_index": 138.0,
+    "combined_index": 140.1,
+    "rural_inflation": 1.5,
+    "urban_inflation": 2.91,
+    "combined_inflation": 2.11
+  },
+  {
+    "date": "2019-01",
+    "rural_index": 141.0,
+    "urban_index": 138.0,
+    "combined_index": 139.6,
+    "rural_inflation": 1.22,
+    "urban_inflation": 2.91,
+    "combined_inflation": 1.97
+  },
+  {
+    "date": "2019-02",
+    "rural_index": 141.0,
+    "urban_index": 138.6,
+    "combined_index": 139.9,
+    "rural_inflation": 1.81,
+    "urban_inflation": 3.43,
+    "combined_inflation": 2.57
+  },
+  {
+    "date": "2019-03",
+    "rural_index": 141.2,
+    "urban_index": 139.5,
+    "combined_index": 140.4,
+    "rural_inflation": 1.8,
+    "urban_inflation": 4.1,
+    "combined_inflation": 2.86
+  },
+  {
+    "date": "2019-04",
+    "rural_index": 141.7,
+    "urban_index": 140.6,
+    "combined_index": 141.2,
+    "rural_inflation": 1.87,
+    "urban_inflation": 4.3,
+    "combined_inflation": 2.99
+  },
+  {
+    "date": "2019-05",
+    "rural_index": 142.4,
+    "urban_index": 141.5,
+    "combined_index": 142.0,
+    "rural_inflation": 1.86,
+    "urban_inflation": 4.51,
+    "combined_inflation": 3.05
+  },
+  {
+    "date": "2019-06",
+    "rural_index": 143.6,
+    "urban_index": 142.1,
+    "combined_index": 142.9,
+    "rural_inflation": 2.21,
+    "urban_inflation": 4.33,
+    "combined_inflation": 3.18
+  },
+  {
+    "date": "2019-07",
+    "rural_index": 144.9,
+    "urban_index": 143.3,
+    "combined_index": 144.2,
+    "rural_inflation": 2.19,
+    "urban_inflation": 4.22,
+    "combined_inflation": 3.15
+  },
+  {
+    "date": "2019-08",
+    "rural_index": 145.7,
+    "urban_index": 144.2,
+    "combined_index": 145.0,
+    "rural_inflation": 2.25,
+    "urban_inflation": 4.49,
+    "combined_inflation": 3.28
+  },
+  {
+    "date": "2019-09",
+    "rural_index": 146.7,
+    "urban_index": 144.7,
+    "combined_index": 145.8,
+    "rural_inflation": 3.24,
+    "urban_inflation": 4.78,
+    "combined_inflation": 3.99
+  },
+  {
+    "date": "2019-10",
+    "rural_index": 148.3,
+    "urban_index": 146.0,
+    "combined_index": 147.2,
+    "rural_inflation": 4.29,
+    "urban_inflation": 5.11,
+    "combined_inflation": 4.62
+  },
+  {
+    "date": "2019-11",
+    "rural_index": 149.9,
+    "urban_index": 147.0,
+    "combined_index": 148.6,
+    "rural_inflation": 5.27,
+    "urban_inflation": 5.76,
+    "combined_inflation": 5.54
+  },
+  {
+    "date": "2019-12",
+    "rural_index": 152.3,
+    "urban_index": 148.3,
+    "combined_index": 150.4,
+    "rural_inflation": 7.33,
+    "urban_inflation": 7.46,
+    "combined_inflation": 7.35
+  },
+  {
+    "date": "2020-01",
+    "rural_index": 151.9,
+    "urban_index": 148.2,
+    "combined_index": 150.2,
+    "rural_inflation": 7.73,
+    "urban_inflation": 7.39,
+    "combined_inflation": 7.59
+  },
+  {
+    "date": "2020-02",
+    "rural_index": 150.4,
+    "urban_index": 147.7,
+    "combined_index": 149.1,
+    "rural_inflation": 6.67,
+    "urban_inflation": 6.57,
+    "combined_inflation": 6.58
+  },
+  {
+    "date": "2020-03",
+    "rural_index": 149.8,
+    "urban_index": 147.3,
+    "combined_index": 148.6,
+    "rural_inflation": 6.09,
+    "urban_inflation": 5.59,
+    "combined_inflation": 5.84
+  },
+  {
+    "date": "2020-04",
+    "rural_index": 151.9,
+    "urban_index": 150.9,
+    "combined_index": 151.4,
+    "rural_inflation": 7.2,
+    "urban_inflation": 7.33,
+    "combined_inflation": 7.22
+  },
+  {
+    "date": "2020-05",
+    "rural_index": 151.2,
+    "urban_index": 150.6,
+    "combined_index": 150.9,
+    "rural_inflation": 6.18,
+    "urban_inflation": 6.43,
+    "combined_inflation": 6.27
+  },
+  {
+    "date": "2020-06",
+    "rural_index": 152.7,
+    "urban_index": 150.8,
+    "combined_index": 151.8,
+    "rural_inflation": 6.34,
+    "urban_inflation": 6.12,
+    "combined_inflation": 6.23
+  },
+  {
+    "date": "2020-07",
+    "rural_index": 154.7,
+    "urban_index": 152.9,
+    "combined_index": 153.9,
+    "rural_inflation": 6.76,
+    "urban_inflation": 6.7,
+    "combined_inflation": 6.73
+  },
+  {
+    "date": "2020-08",
+    "rural_index": 155.4,
+    "urban_index": 154.0,
+    "combined_index": 154.7,
+    "rural_inflation": 6.66,
+    "urban_inflation": 6.8,
+    "combined_inflation": 6.69
+  },
+  {
+    "date": "2020-09",
+    "rural_index": 157.5,
+    "urban_index": 155.2,
+    "combined_index": 156.4,
+    "rural_inflation": 7.36,
+    "urban_inflation": 7.26,
+    "combined_inflation": 7.27
+  },
+  {
+    "date": "2020-10",
+    "rural_index": 159.8,
+    "urban_index": 156.7,
+    "combined_index": 158.4,
+    "rural_inflation": 7.75,
+    "urban_inflation": 7.33,
+    "combined_inflation": 7.61
+  },
+  {
+    "date": "2020-11",
+    "rural_index": 160.7,
+    "urban_index": 156.9,
+    "combined_index": 158.9,
+    "rural_inflation": 7.2,
+    "urban_inflation": 6.73,
+    "combined_inflation": 6.93
+  },
+  {
+    "date": "2020-12",
+    "rural_index": 158.5,
+    "urban_index": 156.0,
+    "combined_index": 157.3,
+    "rural_inflation": 4.07,
+    "urban_inflation": 5.19,
+    "combined_inflation": 4.59
+  },
+  {
+    "date": "2021-01",
+    "rural_index": 156.8,
+    "urban_index": 155.8,
+    "combined_index": 156.3,
+    "rural_inflation": 3.23,
+    "urban_inflation": 5.13,
+    "combined_inflation": 4.06
+  },
+  {
+    "date": "2021-02",
+    "rural_index": 156.7,
+    "urban_index": 156.5,
+    "combined_index": 156.6,
+    "rural_inflation": 4.19,
+    "urban_inflation": 5.96,
+    "combined_inflation": 5.03
+  },
+  {
+    "date": "2021-03",
+    "rural_index": 156.7,
+    "urban_index": 156.9,
+    "combined_index": 156.8,
+    "rural_inflation": 4.61,
+    "urban_inflation": 6.52,
+    "combined_inflation": 5.52
+  },
+  {
+    "date": "2021-04",
+    "rural_index": 157.6,
+    "urban_index": 158.0,
+    "combined_index": 157.8,
+    "rural_inflation": 3.75,
+    "urban_inflation": 4.71,
+    "combined_inflation": 4.23
+  },
+  {
+    "date": "2021-05",
+    "rural_index": 161.1,
+    "urban_index": 159.5,
+    "combined_index": 160.4,
+    "rural_inflation": 6.55,
+    "urban_inflation": 5.91,
+    "combined_inflation": 6.3
+  },
+  {
+    "date": "2021-06",
+    "rural_index": 162.1,
+    "urban_index": 160.4,
+    "combined_index": 161.3,
+    "rural_inflation": 6.16,
+    "urban_inflation": 6.37,
+    "combined_inflation": 6.26
+  },
+  {
+    "date": "2021-07",
+    "rural_index": 163.2,
+    "urban_index": 161.8,
+    "combined_index": 162.5,
+    "rural_inflation": 5.49,
+    "urban_inflation": 5.82,
+    "combined_inflation": 5.59
+  },
+  {
+    "date": "2021-08",
+    "rural_index": 163.6,
+    "urban_index": 162.2,
+    "combined_index": 162.9,
+    "rural_inflation": 5.28,
+    "urban_inflation": 5.32,
+    "combined_inflation": 5.3
+  },
+  {
+    "date": "2021-09",
+    "rural_index": 164.0,
+    "urban_index": 162.3,
+    "combined_index": 163.2,
+    "rural_inflation": 4.13,
+    "urban_inflation": 4.57,
+    "combined_inflation": 4.35
+  },
+  {
+    "date": "2021-10",
+    "rural_index": 166.3,
+    "urban_index": 164.6,
+    "combined_index": 165.5,
+    "rural_inflation": 4.07,
+    "urban_inflation": 5.04,
+    "combined_inflation": 4.48
+  },
+  {
+    "date": "2021-11",
+    "rural_index": 167.6,
+    "urban_index": 165.6,
+    "combined_index": 166.7,
+    "rural_inflation": 4.29,
+    "urban_inflation": 5.54,
+    "combined_inflation": 4.91
+  },
+  {
+    "date": "2021-12",
+    "rural_index": 167.0,
+    "urban_index": 165.2,
+    "combined_index": 166.2,
+    "rural_inflation": 5.36,
+    "urban_inflation": 5.9,
+    "combined_inflation": 5.66
+  },
+  {
+    "date": "2022-01",
+    "rural_index": 166.4,
+    "urban_index": 165.0,
+    "combined_index": 165.7,
+    "rural_inflation": 6.12,
+    "urban_inflation": 5.91,
+    "combined_inflation": 6.01
+  },
+  {
+    "date": "2022-02",
+    "rural_index": 166.7,
+    "urban_index": 165.5,
+    "combined_index": 166.1,
+    "rural_inflation": 6.38,
+    "urban_inflation": 5.75,
+    "combined_inflation": 6.07
+  },
+  {
+    "date": "2022-03",
+    "rural_index": 168.7,
+    "urban_index": 166.5,
+    "combined_index": 167.7,
+    "rural_inflation": 7.66,
+    "urban_inflation": 6.12,
+    "combined_inflation": 6.95
+  },
+  {
+    "date": "2022-04",
+    "rural_index": 170.8,
+    "urban_index": 169.2,
+    "combined_index": 170.1,
+    "rural_inflation": 8.38,
+    "urban_inflation": 7.09,
+    "combined_inflation": 7.79
+  },
+  {
+    "date": "2022-05",
+    "rural_index": 172.5,
+    "urban_index": 170.8,
+    "combined_index": 171.7,
+    "rural_inflation": 7.08,
+    "urban_inflation": 7.08,
+    "combined_inflation": 7.04
+  },
+  {
+    "date": "2022-06",
+    "rural_index": 173.6,
+    "urban_index": 171.4,
+    "combined_index": 172.6,
+    "rural_inflation": 7.09,
+    "urban_inflation": 6.86,
+    "combined_inflation": 7.01
+  },
+  {
+    "date": "2022-07",
+    "rural_index": 174.3,
+    "urban_index": 172.3,
+    "combined_index": 173.4,
+    "rural_inflation": 6.8,
+    "urban_inflation": 6.49,
+    "combined_inflation": 6.71
+  },
+  {
+    "date": "2022-08",
+    "rural_index": 175.3,
+    "urban_index": 173.1,
+    "combined_index": 174.3,
+    "rural_inflation": 7.15,
+    "urban_inflation": 6.72,
+    "combined_inflation": 7.0
+  },
+  {
+    "date": "2022-09",
+    "rural_index": 176.4,
+    "urban_index": 174.1,
+    "combined_index": 175.3,
+    "rural_inflation": 7.56,
+    "urban_inflation": 7.27,
+    "combined_inflation": 7.41
+  },
+  {
+    "date": "2022-10",
+    "rural_index": 177.9,
+    "urban_index": 175.3,
+    "combined_index": 176.7,
+    "rural_inflation": 6.98,
+    "urban_inflation": 6.5,
+    "combined_inflation": 6.77
+  },
+  {
+    "date": "2022-11",
+    "rural_index": 177.8,
+    "urban_index": 175.0,
+    "combined_index": 176.5,
+    "rural_inflation": 6.09,
+    "urban_inflation": 5.68,
+    "combined_inflation": 5.88
+  },
+  {
+    "date": "2022-12",
+    "rural_index": 177.1,
+    "urban_index": 174.1,
+    "combined_index": 175.7,
+    "rural_inflation": 6.05,
+    "urban_inflation": 5.39,
+    "combined_inflation": 5.72
+  },
+  {
+    "date": "2023-01",
+    "rural_index": 177.8,
+    "urban_index": 174.9,
+    "combined_index": 176.5,
+    "rural_inflation": 6.85,
+    "urban_inflation": 6.0,
+    "combined_inflation": 6.52
+  },
+  {
+    "date": "2023-02",
+    "rural_index": 177.9,
+    "urban_index": 175.6,
+    "combined_index": 176.8,
+    "rural_inflation": 6.72,
+    "urban_inflation": 6.1,
+    "combined_inflation": 6.44
+  },
+  {
+    "date": "2023-03",
+    "rural_index": 178.0,
+    "urban_index": 176.3,
+    "combined_index": 177.2,
+    "rural_inflation": 5.51,
+    "urban_inflation": 5.89,
+    "combined_inflation": 5.66
+  },
+  {
+    "date": "2023-04",
+    "rural_index": 178.8,
+    "urban_index": 177.4,
+    "combined_index": 178.1,
+    "rural_inflation": 4.68,
+    "urban_inflation": 4.85,
+    "combined_inflation": 4.7
+  },
+  {
+    "date": "2023-05",
+    "rural_index": 179.8,
+    "urban_index": 178.2,
+    "combined_index": 179.1,
+    "rural_inflation": 4.23,
+    "urban_inflation": 4.33,
+    "combined_inflation": 4.31
+  },
+  {
+    "date": "2023-06",
+    "rural_index": 181.9,
+    "urban_index": 179.9,
+    "combined_index": 181.0,
+    "rural_inflation": 4.78,
+    "urban_inflation": 4.96,
+    "combined_inflation": 4.87
+  },
+  {
+    "date": "2023-07",
+    "rural_index": 187.6,
+    "urban_index": 184.7,
+    "combined_index": 186.3,
+    "rural_inflation": 7.63,
+    "urban_inflation": 7.2,
+    "combined_inflation": 7.44
+  },
+  {
+    "date": "2023-08",
+    "rural_index": 187.6,
+    "urban_index": 184.5,
+    "combined_index": 186.2,
+    "rural_inflation": 7.02,
+    "urban_inflation": 6.59,
+    "combined_inflation": 6.83
+  },
+  {
+    "date": "2023-09",
+    "rural_index": 185.8,
+    "urban_index": 182.2,
+    "combined_index": 184.1,
+    "rural_inflation": 5.33,
+    "urban_inflation": 4.65,
+    "combined_inflation": 5.02
+  },
+  {
+    "date": "2023-10",
+    "rural_index": 187.0,
+    "urban_index": 183.4,
+    "combined_index": 185.3,
+    "rural_inflation": 5.12,
+    "urban_inflation": 4.62,
+    "combined_inflation": 4.87
+  },
+  {
+    "date": "2023-11",
+    "rural_index": 188.2,
+    "urban_index": 184.2,
+    "combined_index": 186.3,
+    "rural_inflation": 5.85,
+    "urban_inflation": 5.26,
+    "combined_inflation": 5.55
+  },
+  {
+    "date": "2023-12",
+    "rural_index": 187.6,
+    "urban_index": 183.6,
+    "combined_index": 185.7,
+    "rural_inflation": 5.93,
+    "urban_inflation": 5.46,
+    "combined_inflation": 5.69
+  },
+  {
+    "date": "2024-01",
+    "rural_index": 187.3,
+    "urban_index": 183.5,
+    "combined_index": 185.5,
+    "rural_inflation": 5.34,
+    "urban_inflation": 4.92,
+    "combined_inflation": 5.1
+  },
+  {
+    "date": "2024-02",
+    "rural_index": 187.4,
+    "urban_index": 184.0,
+    "combined_index": 185.8,
+    "rural_inflation": 5.34,
+    "urban_inflation": 4.78,
+    "combined_inflation": 5.09
+  },
+  {
+    "date": "2024-03",
+    "rural_index": 187.8,
+    "urban_index": 183.6,
+    "combined_index": 185.8,
+    "rural_inflation": 5.51,
+    "urban_inflation": 4.14,
+    "combined_inflation": 4.85
+  },
+  {
+    "date": "2024-04",
+    "rural_index": 188.5,
+    "urban_index": 184.7,
+    "combined_index": 186.7,
+    "rural_inflation": 5.43,
+    "urban_inflation": 4.11,
+    "combined_inflation": 4.83
+  },
+  {
+    "date": "2024-05",
+    "rural_index": 189.4,
+    "urban_index": 185.7,
+    "combined_index": 187.7,
+    "rural_inflation": 5.34,
+    "urban_inflation": 4.21,
+    "combined_inflation": 4.8
+  },
+  {
+    "date": "2024-06",
+    "rural_index": 192.2,
+    "urban_index": 187.8,
+    "combined_index": 190.2,
+    "rural_inflation": 5.66,
+    "urban_inflation": 4.39,
+    "combined_inflation": 5.08
+  },
+  {
+    "date": "2024-07",
+    "rural_index": 195.3,
+    "urban_index": 190.3,
+    "combined_index": 193.0,
+    "rural_inflation": 4.1,
+    "urban_inflation": 3.03,
+    "combined_inflation": 3.6
+  },
+  {
+    "date": "2024-08",
+    "rural_index": 195.4,
+    "urban_index": 190.3,
+    "combined_index": 193.0,
+    "rural_inflation": 4.16,
+    "urban_inflation": 3.14,
+    "combined_inflation": 3.65
+  },
+  {
+    "date": "2024-09",
+    "rural_index": 196.7,
+    "urban_index": 191.4,
+    "combined_index": 194.2,
+    "rural_inflation": 5.87,
+    "urban_inflation": 5.05,
+    "combined_inflation": 5.49
+  },
+  {
+    "date": "2024-10",
+    "rural_index": 199.5,
+    "urban_index": 193.7,
+    "combined_index": 196.8,
+    "rural_inflation": 6.68,
+    "urban_inflation": 5.62,
+    "combined_inflation": 6.21
+  },
+  {
+    "date": "2024-11",
+    "rural_index": 199.4,
+    "urban_index": 193.2,
+    "combined_index": 196.5,
+    "rural_inflation": 5.95,
+    "urban_inflation": 4.89,
+    "combined_inflation": 5.48
+  },
+  {
+    "date": "2024-12",
+    "rural_index": 198.4,
+    "urban_index": 192.0,
+    "combined_index": 195.4,
+    "rural_inflation": 5.76,
+    "urban_inflation": 4.58,
+    "combined_inflation": 5.22
+  },
+  {
+    "date": "2025-01",
+    "rural_index": 195.9,
+    "urban_index": 190.6,
+    "combined_index": 193.4,
+    "rural_inflation": 4.59,
+    "urban_inflation": 3.87,
+    "combined_inflation": 4.26
+  },
+  {
+    "date": "2025-02",
+    "rural_index": 194.5,
+    "urban_index": 190.1,
+    "combined_index": 192.5,
+    "rural_inflation": 3.79,
+    "urban_inflation": 3.32,
+    "combined_inflation": 3.61
+  },
+  {
+    "date": "2025-03",
+    "rural_index": 193.9,
+    "urban_index": 189.9,
+    "combined_index": 192.0,
+    "rural_inflation": 3.25,
+    "urban_inflation": 3.43,
+    "combined_inflation": 3.34
+  },
+  {
+    "date": "2025-04",
+    "rural_index": 194.0,
+    "urban_index": 190.9,
+    "combined_index": 192.6,
+    "rural_inflation": 2.92,
+    "urban_inflation": 3.36,
+    "combined_inflation": 3.16
+  },
+  {
+    "date": "2025-05",
+    "rural_index": 194.3,
+    "urban_index": 191.5,
+    "combined_index": 193.0,
+    "rural_inflation": 2.59,
+    "urban_inflation": 3.12,
+    "combined_inflation": 2.82
+  },
+  {
+    "date": "2025-06",
+    "rural_index": 195.5,
+    "urban_index": 192.6,
+    "combined_index": 194.2,
+    "rural_inflation": 1.72,
+    "urban_inflation": 2.56,
+    "combined_inflation": 2.1
+  },
+  {
+    "date": "2025-07",
+    "rural_index": 197.6,
+    "urban_index": 194.3,
+    "combined_index": 196.1,
+    "rural_inflation": 1.18,
+    "urban_inflation": 2.1,
+    "combined_inflation": 1.61
+  },
+  {
+    "date": "2025-08",
+    "rural_index": 198.7,
+    "urban_index": 195.0,
+    "combined_index": 197.0,
+    "rural_inflation": 1.69,
+    "urban_inflation": 2.47,
+    "combined_inflation": 2.07
+  },
+  {
+    "date": "2025-09",
+    "rural_index": 198.8,
+    "urban_index": 194.9,
+    "combined_index": 197.0,
+    "rural_inflation": 1.07,
+    "urban_inflation": 1.83,
+    "combined_inflation": 1.44
+  },
+  {
+    "date": "2025-10",
+    "rural_index": 199.0,
+    "urban_index": 195.4,
+    "combined_index": 197.3,
+    "rural_inflation": -0.25,
+    "urban_inflation": 0.88,
+    "combined_inflation": 0.25
+  },
+  {
+    "date": "2025-11",
+    "rural_index": 199.6,
+    "urban_index": 195.9,
+    "combined_index": 197.9,
+    "rural_inflation": 0.1,
+    "urban_inflation": 1.4,
+    "combined_inflation": 0.71
+  },
+  {
+    "date": "2025-12",
+    "rural_index": 199.9,
+    "urban_index": 195.9,
+    "combined_index": 198.0,
+    "rural_inflation": 0.76,
+    "urban_inflation": 2.03,
+    "combined_inflation": 1.33
+  }
+]
