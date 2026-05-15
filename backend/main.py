@@ -60,27 +60,39 @@ def api_root():
 async def websocket_proxy(client_ws: WebSocket, path: str):
     await client_ws.accept()
 
-    # Use scope to get query string — correct way in Starlette
     qs = client_ws.scope.get("query_string", b"").decode()
     target = f"{STREAMLIT_WS}/{path}"
     if qs:
         target += f"?{qs}"
 
+    # Forward all original headers — Streamlit needs Origin to match
+    forward_headers = [
+        (k.decode(), v.decode())
+        for k, v in client_ws.scope.get("headers", [])
+        if k.lower() not in (b"host",)
+    ]
+    # Override host to point to local streamlit
+    forward_headers.append(("Host", f"localhost:{STREAMLIT_PORT}"))
+    forward_headers.append(("Origin", f"http://localhost:{STREAMLIT_PORT}"))
+
     try:
         async with websockets.connect(
             target,
-            extra_headers={"Host": f"localhost:{STREAMLIT_PORT}"},
+            extra_headers=forward_headers,
             max_size=None,
+            open_timeout=10,
         ) as server_ws:
 
             async def client_to_server():
                 try:
                     while True:
                         msg = await client_ws.receive()
-                        if "bytes" in msg and msg["bytes"]:
+                        if msg.get("bytes"):
                             await server_ws.send(msg["bytes"])
-                        elif "text" in msg and msg["text"]:
+                        elif msg.get("text"):
                             await server_ws.send(msg["text"])
+                        elif msg.get("type") == "websocket.disconnect":
+                            break
                 except Exception:
                     pass
 
