@@ -1,6 +1,11 @@
 import json
+import sys
 import streamlit as st
 from pathlib import Path
+
+# Make sure repo root is in path
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
 
 st.set_page_config(
     page_title="India Inflation Dashboard",
@@ -11,8 +16,7 @@ st.set_page_config(
 
 from frontend.pages import trend, annual, heatmap, categories
 
-# Load JSON directly — no API call needed
-DATA_DIR = Path(__file__).resolve().parent.parent / "notebook" / "data" / "processed"
+DATA_DIR = ROOT / "notebook" / "data" / "processed"
 
 @st.cache_data
 def load(filename):
