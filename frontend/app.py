@@ -1,5 +1,6 @@
-import os
+import json
 import streamlit as st
+from pathlib import Path
 
 st.set_page_config(
     page_title="India Inflation Dashboard",
@@ -8,24 +9,15 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-import requests
 from frontend.pages import trend, annual, heatmap, categories
 
-# On Render: API_BASE is set by main.py to http://localhost:8000/api
-# Locally with separate terminals: set API_BASE env var or use default
-API_BASE = os.environ.get("API_BASE", "http://localhost:8000/api")
+# Load JSON directly — no API call needed
+DATA_DIR = Path(__file__).resolve().parent.parent / "notebook" / "data" / "processed"
 
-
-@st.cache_data(ttl=300)
-def fetch(endpoint: str):
-    try:
-        r = requests.get(f"{API_BASE}/{endpoint}", timeout=5)
-        r.raise_for_status()
-        return r.json()
-    except Exception as e:
-        st.error(f"API error on /{endpoint}: {e}")
-        return None
-
+@st.cache_data
+def load(filename):
+    with open(DATA_DIR / filename) as f:
+        return json.load(f)
 
 with st.sidebar:
     st.markdown("## 📊 India CPI Dashboard")
@@ -40,7 +32,7 @@ with st.sidebar:
         st.cache_data.clear()
         st.rerun()
 
-summary = fetch("summary")
+summary = load("summary.json")
 if summary:
     st.markdown(f"### Latest: {summary['latest_month']}")
     c1, c2, c3, c4 = st.columns(4)
@@ -51,41 +43,25 @@ if summary:
     st.divider()
 
 if page == "Monthly Trend":
-    data = fetch("trend")
-    if data: trend.render(data)
-
+    trend.render(load("trend.json"))
 elif page == "Annual Comparison":
-    data = fetch("annual")
-    if data: annual.render(data)
-
+    annual.render(load("annual.json"))
 elif page == "Seasonal Heatmap":
-    data = fetch("heatmap")
-    if data: heatmap.render(data)
-
+    heatmap.render(load("heatmap.json"))
 elif page == "Category Breakdown":
-    data = fetch("categories")
-    if data: categories.render(data)
-
+    categories.render(load("categories.json"))
 else:
     col1, col2 = st.columns(2)
     with col1:
-        t = fetch("trend")
-        if t:
-            st.markdown("#### Monthly CPI index")
-            trend.render(t, compact=True)
+        st.markdown("#### Monthly CPI index")
+        trend.render(load("trend.json"), compact=True)
     with col2:
-        a = fetch("annual")
-        if a:
-            st.markdown("#### Annual avg inflation")
-            annual.render(a, compact=True)
+        st.markdown("#### Annual avg inflation")
+        annual.render(load("annual.json"), compact=True)
     col3, col4 = st.columns(2)
     with col3:
-        h = fetch("heatmap")
-        if h:
-            st.markdown("#### Seasonal heatmap")
-            heatmap.render(h, compact=True)
+        st.markdown("#### Seasonal heatmap")
+        heatmap.render(load("heatmap.json"), compact=True)
     with col4:
-        cat = fetch("categories")
-        if cat:
-            st.markdown("#### Category breakdown")
-            categories.render(cat, compact=True)
+        st.markdown("#### Category breakdown")
+        categories.render(load("categories.json"), compact=True)
