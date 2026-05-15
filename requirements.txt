@@ -7,5 +7,3 @@ numpy==1.26.4
 streamlit==1.35.0
 plotly==5.22.0
 requests==2.32.3
-jupyter==1.0.0
-ipykernel==6.29.4
