@@ -1,30 +1,27 @@
 import subprocess
 import sys
 import os
+import asyncio
 import httpx
+import websockets
 from contextlib import asynccontextmanager
 from pathlib import Path
 
 from fastapi import FastAPI, Request, WebSocket
 from fastapi.responses import StreamingResponse, Response
 from fastapi.middleware.cors import CORSMiddleware
-from starlette.websockets import WebSocketDisconnect
-import websockets
 
 from backend.routers import inflation
 
 STREAMLIT_PORT = 8501
-STREAMLIT_URL = f"http://localhost:{STREAMLIT_PORT}"
-STREAMLIT_WS  = f"ws://localhost:{STREAMLIT_PORT}"
-FRONTEND_APP  = Path(__file__).resolve().parent.parent / "frontend" / "app.py"
-
-streamlit_process = None
+STREAMLIT_URL  = f"http://localhost:{STREAMLIT_PORT}"
+STREAMLIT_WS   = f"ws://localhost:{STREAMLIT_PORT}"
+FRONTEND_APP   = Path(__file__).resolve().parent.parent / "frontend" / "app.py"
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    global streamlit_process
-    streamlit_process = subprocess.Popen(
+    proc = subprocess.Popen(
         [
             sys.executable, "-m", "streamlit", "run",
             str(FRONTEND_APP),
@@ -33,24 +30,16 @@ async def lifespan(app: FastAPI):
             "--server.headless", "true",
             "--server.enableCORS", "false",
             "--server.enableXsrfProtection", "false",
-            "--server.allowRunOnSave", "false",
             "--browser.gatherUsageStats", "false",
-            # Allow all origins for WebSocket
-            "--server.enableWebsocketCompression", "false",
         ],
         env={**os.environ, "API_BASE": "http://localhost:8000/api"}
     )
-    print(f"Streamlit started (pid {streamlit_process.pid})")
+    print(f"Streamlit started (pid {proc.pid})")
     yield
-    if streamlit_process:
-        streamlit_process.terminate()
+    proc.terminate()
 
 
-app = FastAPI(
-    title="India Inflation Dashboard",
-    version="1.0.0",
-    lifespan=lifespan,
-)
+app = FastAPI(title="India Inflation Dashboard", version="1.0.0", lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,
@@ -59,7 +48,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# ── REST API ──────────────────────────────────────────────────────────────────
 app.include_router(inflation.router, prefix="/api", tags=["inflation"])
 
 @app.get("/api")
@@ -67,26 +55,32 @@ def api_root():
     return {"message": "India Inflation Dashboard API", "docs": "/docs"}
 
 
-# ── WebSocket proxy → Streamlit ───────────────────────────────────────────────
+# ── WebSocket proxy ───────────────────────────────────────────────────────────
 @app.websocket("/{path:path}")
 async def websocket_proxy(client_ws: WebSocket, path: str):
     await client_ws.accept()
+
+    # Use scope to get query string — correct way in Starlette
+    qs = client_ws.scope.get("query_string", b"").decode()
     target = f"{STREAMLIT_WS}/{path}"
-    if client_ws.query_string:
-        target += f"?{client_ws.query_string.decode()}"
+    if qs:
+        target += f"?{qs}"
+
     try:
         async with websockets.connect(
             target,
-            extra_headers={"Host": f"localhost:{STREAMLIT_PORT}"},
+            additional_headers={"Host": f"localhost:{STREAMLIT_PORT}"},
             max_size=None,
         ) as server_ws:
-            import asyncio
 
             async def client_to_server():
                 try:
                     while True:
-                        data = await client_ws.receive_bytes()
-                        await server_ws.send(data)
+                        msg = await client_ws.receive()
+                        if "bytes" in msg and msg["bytes"]:
+                            await server_ws.send(msg["bytes"])
+                        elif "text" in msg and msg["text"]:
+                            await server_ws.send(msg["text"])
                 except Exception:
                     pass
 
@@ -101,6 +95,7 @@ async def websocket_proxy(client_ws: WebSocket, path: str):
                     pass
 
             await asyncio.gather(client_to_server(), server_to_client())
+
     except Exception as e:
         print(f"WS proxy error: {e}")
     finally:
@@ -110,7 +105,7 @@ async def websocket_proxy(client_ws: WebSocket, path: str):
             pass
 
 
-# ── HTTP proxy → Streamlit ────────────────────────────────────────────────────
+# ── HTTP proxy ────────────────────────────────────────────────────────────────
 @app.api_route(
     "/{path:path}",
     methods=["GET", "POST", "PUT", "DELETE", "OPTIONS", "HEAD", "PATCH"],
