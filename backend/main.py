@@ -69,7 +69,7 @@ async def websocket_proxy(client_ws: WebSocket, path: str):
     try:
         async with websockets.connect(
             target,
-            additional_headers={"Host": f"localhost:{STREAMLIT_PORT}"},
+            extra_headers={"Host": f"localhost:{STREAMLIT_PORT}"},
             max_size=None,
         ) as server_ws:
 
