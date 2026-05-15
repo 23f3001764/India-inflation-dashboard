@@ -14,7 +14,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-from frontend.pages import trend, annual, heatmap, categories
+from frontend.components import trend, annual, heatmap, categories
 
 DATA_DIR = ROOT / "notebook" / "data" / "processed"
 
