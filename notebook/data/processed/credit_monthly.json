@@ -1,0 +1,2984 @@
+[
+  {
+    "date": "2010-01-01",
+    "bank_credit": 30.25,
+    "deposits": 42.69,
+    "nonfood_credit": 29.78,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-01-15",
+    "bank_credit": 30.1,
+    "deposits": 42.48,
+    "nonfood_credit": 29.68,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-01-29",
+    "bank_credit": 30.31,
+    "deposits": 42.99,
+    "nonfood_credit": 29.87,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-02-12",
+    "bank_credit": 30.55,
+    "deposits": 43.12,
+    "nonfood_credit": 30.1,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-02-26",
+    "bank_credit": 30.93,
+    "deposits": 43.67,
+    "nonfood_credit": 30.45,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-03-12",
+    "bank_credit": 31.3,
+    "deposits": 44.09,
+    "nonfood_credit": 30.8,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-03-26",
+    "bank_credit": 32.45,
+    "deposits": 44.93,
+    "nonfood_credit": 31.96,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-04-09",
+    "bank_credit": 32.44,
+    "deposits": 45.43,
+    "nonfood_credit": 31.96,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-04-23",
+    "bank_credit": 32.15,
+    "deposits": 45.11,
+    "nonfood_credit": 31.67,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-05-07",
+    "bank_credit": 32.31,
+    "deposits": 45.41,
+    "nonfood_credit": 31.78,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-05-21",
+    "bank_credit": 32.32,
+    "deposits": 45.32,
+    "nonfood_credit": 31.83,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-06-04",
+    "bank_credit": 32.92,
+    "deposits": 45.5,
+    "nonfood_credit": 32.4,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-06-18",
+    "bank_credit": 33.15,
+    "deposits": 45.21,
+    "nonfood_credit": 32.62,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-07-02",
+    "bank_credit": 34.08,
+    "deposits": 46.37,
+    "nonfood_credit": 33.54,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-07-16",
+    "bank_credit": 33.64,
+    "deposits": 45.97,
+    "nonfood_credit": 33.19,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-07-30",
+    "bank_credit": 33.8,
+    "deposits": 46.75,
+    "nonfood_credit": 33.29,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-08-13",
+    "bank_credit": 33.67,
+    "deposits": 46.39,
+    "nonfood_credit": 33.21,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-08-27",
+    "bank_credit": 33.54,
+    "deposits": 46.74,
+    "nonfood_credit": 33.07,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-09-10",
+    "bank_credit": 33.83,
+    "deposits": 46.98,
+    "nonfood_credit": 33.32,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-09-24",
+    "bank_credit": 34.25,
+    "deposits": 47.11,
+    "nonfood_credit": 33.75,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-10-08",
+    "bank_credit": 34.73,
+    "deposits": 47.93,
+    "nonfood_credit": 34.23,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-10-22",
+    "bank_credit": 34.79,
+    "deposits": 48.78,
+    "nonfood_credit": 34.32,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-11-05",
+    "bank_credit": 35.3,
+    "deposits": 48.13,
+    "nonfood_credit": 34.77,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-11-19",
+    "bank_credit": 35.6,
+    "deposits": 48.53,
+    "nonfood_credit": 35.02,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-12-03",
+    "bank_credit": 35.98,
+    "deposits": 48.45,
+    "nonfood_credit": 35.36,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-12-17",
+    "bank_credit": 36.45,
+    "deposits": 48.06,
+    "nonfood_credit": 35.82,
+    "credit_growth_yoy": null
+  },
+  {
+    "date": "2010-12-31",
+    "bank_credit": 37.65,
+    "deposits": 49.86,
+    "nonfood_credit": 36.99,
+    "credit_growth_yoy": 24.46
+  },
+  {
+    "date": "2011-01-14",
+    "bank_credit": 37.21,
+    "deposits": 49.47,
+    "nonfood_credit": 36.57,
+    "credit_growth_yoy": 23.62
+  },
+  {
+    "date": "2011-01-28",
+    "bank_credit": 37.38,
+    "deposits": 49.87,
+    "nonfood_credit": 36.76,
+    "credit_growth_yoy": 23.33
+  },
+  {
+    "date": "2011-02-11",
+    "bank_credit": 37.88,
+    "deposits": 50.46,
+    "nonfood_credit": 37.24,
+    "credit_growth_yoy": 23.99
+  },
+  {
+    "date": "2011-02-25",
+    "bank_credit": 38.13,
+    "deposits": 50.88,
+    "nonfood_credit": 37.48,
+    "credit_growth_yoy": 23.28
+  },
+  {
+    "date": "2011-03-11",
+    "bank_credit": 38.58,
+    "deposits": 51.44,
+    "nonfood_credit": 37.92,
+    "credit_growth_yoy": 23.26
+  },
+  {
+    "date": "2011-03-25",
+    "bank_credit": 39.42,
+    "deposits": 52.08,
+    "nonfood_credit": 38.78,
+    "credit_growth_yoy": 21.48
+  },
+  {
+    "date": "2011-04-08",
+    "bank_credit": 39.53,
+    "deposits": 53.32,
+    "nonfood_credit": 39.03,
+    "credit_growth_yoy": 21.86
+  },
+  {
+    "date": "2011-04-22",
+    "bank_credit": 39.25,
+    "deposits": 53.24,
+    "nonfood_credit": 38.82,
+    "credit_growth_yoy": 22.08
+  },
+  {
+    "date": "2011-05-06",
+    "bank_credit": 39.6,
+    "deposits": 53.19,
+    "nonfood_credit": 39.01,
+    "credit_growth_yoy": 22.56
+  },
+  {
+    "date": "2011-05-20",
+    "bank_credit": 39.58,
+    "deposits": 53.23,
+    "nonfood_credit": 38.91,
+    "credit_growth_yoy": 22.46
+  },
+  {
+    "date": "2011-06-03",
+    "bank_credit": 39.84,
+    "deposits": 53.63,
+    "nonfood_credit": 39.1,
+    "credit_growth_yoy": 21.02
+  },
+  {
+    "date": "2011-06-17",
+    "bank_credit": 40.01,
+    "deposits": 53.48,
+    "nonfood_credit": 39.24,
+    "credit_growth_yoy": 20.69
+  },
+  {
+    "date": "2011-07-01",
+    "bank_credit": 40.88,
+    "deposits": 54.94,
+    "nonfood_credit": 40.09,
+    "credit_growth_yoy": 19.95
+  },
+  {
+    "date": "2011-07-15",
+    "bank_credit": 40.14,
+    "deposits": 54.23,
+    "nonfood_credit": 39.38,
+    "credit_growth_yoy": 19.32
+  },
+  {
+    "date": "2011-07-29",
+    "bank_credit": 40.11,
+    "deposits": 54.85,
+    "nonfood_credit": 39.41,
+    "credit_growth_yoy": 18.67
+  },
+  {
+    "date": "2011-08-12",
+    "bank_credit": 40.51,
+    "deposits": 54.95,
+    "nonfood_credit": 39.79,
+    "credit_growth_yoy": 20.31
+  },
+  {
+    "date": "2011-08-26",
+    "bank_credit": 40.48,
+    "deposits": 55.13,
+    "nonfood_credit": 39.74,
+    "credit_growth_yoy": 20.69
+  },
+  {
+    "date": "2011-09-09",
+    "bank_credit": 40.75,
+    "deposits": 55.28,
+    "nonfood_credit": 40.02,
+    "credit_growth_yoy": 20.46
+  },
+  {
+    "date": "2011-09-23",
+    "bank_credit": 40.95,
+    "deposits": 55.35,
+    "nonfood_credit": 40.27,
+    "credit_growth_yoy": 19.56
+  },
+  {
+    "date": "2011-10-07",
+    "bank_credit": 41.5,
+    "deposits": 56.29,
+    "nonfood_credit": 40.86,
+    "credit_growth_yoy": 19.49
+  },
+  {
+    "date": "2011-10-21",
+    "bank_credit": 41.52,
+    "deposits": 56.23,
+    "nonfood_credit": 40.83,
+    "credit_growth_yoy": 19.34
+  },
+  {
+    "date": "2011-11-04",
+    "bank_credit": 41.82,
+    "deposits": 56.58,
+    "nonfood_credit": 41.04,
+    "credit_growth_yoy": 18.47
+  },
+  {
+    "date": "2011-11-18",
+    "bank_credit": 41.89,
+    "deposits": 56.51,
+    "nonfood_credit": 41.1,
+    "credit_growth_yoy": 17.67
+  },
+  {
+    "date": "2011-12-02",
+    "bank_credit": 42.37,
+    "deposits": 57.14,
+    "nonfood_credit": 41.55,
+    "credit_growth_yoy": 17.76
+  },
+  {
+    "date": "2011-12-16",
+    "bank_credit": 42.68,
+    "deposits": 56.76,
+    "nonfood_credit": 41.85,
+    "credit_growth_yoy": 17.09
+  },
+  {
+    "date": "2011-12-30",
+    "bank_credit": 43.67,
+    "deposits": 58.33,
+    "nonfood_credit": 42.82,
+    "credit_growth_yoy": 15.99
+  },
+  {
+    "date": "2012-01-13",
+    "bank_credit": 43.35,
+    "deposits": 57.72,
+    "nonfood_credit": 42.48,
+    "credit_growth_yoy": 16.5
+  },
+  {
+    "date": "2012-01-27",
+    "bank_credit": 43.53,
+    "deposits": 57.72,
+    "nonfood_credit": 42.7,
+    "credit_growth_yoy": 16.45
+  },
+  {
+    "date": "2012-02-10",
+    "bank_credit": 43.83,
+    "deposits": 58.05,
+    "nonfood_credit": 43.01,
+    "credit_growth_yoy": 15.71
+  },
+  {
+    "date": "2012-02-24",
+    "bank_credit": 44.09,
+    "deposits": 58.2,
+    "nonfood_credit": 43.26,
+    "credit_growth_yoy": 15.63
+  },
+  {
+    "date": "2012-03-09",
+    "bank_credit": 44.89,
+    "deposits": 58.86,
+    "nonfood_credit": 44.05,
+    "credit_growth_yoy": 16.36
+  },
+  {
+    "date": "2012-03-23",
+    "bank_credit": 46.12,
+    "deposits": 59.09,
+    "nonfood_credit": 45.31,
+    "credit_growth_yoy": 17.0
+  },
+  {
+    "date": "2012-04-06",
+    "bank_credit": 46.93,
+    "deposits": 60.99,
+    "nonfood_credit": 46.14,
+    "credit_growth_yoy": 18.72
+  },
+  {
+    "date": "2012-04-20",
+    "bank_credit": 46.19,
+    "deposits": 60.37,
+    "nonfood_credit": 45.38,
+    "credit_growth_yoy": 17.68
+  },
+  {
+    "date": "2012-05-04",
+    "bank_credit": 46.46,
+    "deposits": 60.66,
+    "nonfood_credit": 45.47,
+    "credit_growth_yoy": 17.32
+  },
+  {
+    "date": "2012-05-18",
+    "bank_credit": 46.5,
+    "deposits": 60.63,
+    "nonfood_credit": 45.45,
+    "credit_growth_yoy": 17.48
+  },
+  {
+    "date": "2012-06-01",
+    "bank_credit": 47.14,
+    "deposits": 61.43,
+    "nonfood_credit": 46.02,
+    "credit_growth_yoy": 18.32
+  },
+  {
+    "date": "2012-06-15",
+    "bank_credit": 47.14,
+    "deposits": 61.18,
+    "nonfood_credit": 46.09,
+    "credit_growth_yoy": 17.82
+  },
+  {
+    "date": "2012-06-29",
+    "bank_credit": 47.63,
+    "deposits": 62.33,
+    "nonfood_credit": 46.56,
+    "credit_growth_yoy": 16.51
+  },
+  {
+    "date": "2012-07-13",
+    "bank_credit": 47.26,
+    "deposits": 62.26,
+    "nonfood_credit": 46.23,
+    "credit_growth_yoy": 17.74
+  },
+  {
+    "date": "2012-07-27",
+    "bank_credit": 47.04,
+    "deposits": 62.47,
+    "nonfood_credit": 46.07,
+    "credit_growth_yoy": 17.28
+  },
+  {
+    "date": "2012-08-10",
+    "bank_credit": 47.25,
+    "deposits": 62.86,
+    "nonfood_credit": 46.25,
+    "credit_growth_yoy": 16.64
+  },
+  {
+    "date": "2012-08-24",
+    "bank_credit": 47.23,
+    "deposits": 62.95,
+    "nonfood_credit": 46.26,
+    "credit_growth_yoy": 16.67
+  },
+  {
+    "date": "2012-09-07",
+    "bank_credit": 47.5,
+    "deposits": 63.27,
+    "nonfood_credit": 46.55,
+    "credit_growth_yoy": 16.56
+  },
+  {
+    "date": "2012-09-21",
+    "bank_credit": 47.64,
+    "deposits": 62.92,
+    "nonfood_credit": 46.71,
+    "credit_growth_yoy": 16.34
+  },
+  {
+    "date": "2012-10-05",
+    "bank_credit": 48.14,
+    "deposits": 64.12,
+    "nonfood_credit": 47.22,
+    "credit_growth_yoy": 16.0
+  },
+  {
+    "date": "2012-10-19",
+    "bank_credit": 48.14,
+    "deposits": 63.88,
+    "nonfood_credit": 47.18,
+    "credit_growth_yoy": 15.94
+  },
+  {
+    "date": "2012-11-02",
+    "bank_credit": 48.6,
+    "deposits": 64.34,
+    "nonfood_credit": 47.56,
+    "credit_growth_yoy": 16.21
+  },
+  {
+    "date": "2012-11-16",
+    "bank_credit": 48.93,
+    "deposits": 64.06,
+    "nonfood_credit": 47.84,
+    "credit_growth_yoy": 16.81
+  },
+  {
+    "date": "2012-11-30",
+    "bank_credit": 49.59,
+    "deposits": 64.4,
+    "nonfood_credit": 48.51,
+    "credit_growth_yoy": 17.04
+  },
+  {
+    "date": "2012-12-14",
+    "bank_credit": 49.62,
+    "deposits": 64.31,
+    "nonfood_credit": 48.53,
+    "credit_growth_yoy": 16.26
+  },
+  {
+    "date": "2012-12-28",
+    "bank_credit": 50.26,
+    "deposits": 64.75,
+    "nonfood_credit": 49.18,
+    "credit_growth_yoy": 15.09
+  },
+  {
+    "date": "2013-01-11",
+    "bank_credit": 50.41,
+    "deposits": 65.32,
+    "nonfood_credit": 49.35,
+    "credit_growth_yoy": 16.29
+  },
+  {
+    "date": "2013-01-25",
+    "bank_credit": 50.51,
+    "deposits": 65.29,
+    "nonfood_credit": 49.45,
+    "credit_growth_yoy": 16.03
+  },
+  {
+    "date": "2013-02-08",
+    "bank_credit": 51.0,
+    "deposits": 65.75,
+    "nonfood_credit": 49.91,
+    "credit_growth_yoy": 16.36
+  },
+  {
+    "date": "2013-02-22",
+    "bank_credit": 51.27,
+    "deposits": 65.65,
+    "nonfood_credit": 50.2,
+    "credit_growth_yoy": 16.28
+  },
+  {
+    "date": "2013-03-08",
+    "bank_credit": 51.79,
+    "deposits": 66.57,
+    "nonfood_credit": 50.75,
+    "credit_growth_yoy": 15.37
+  },
+  {
+    "date": "2013-03-22",
+    "bank_credit": 52.6,
+    "deposits": 67.5,
+    "nonfood_credit": 51.64,
+    "credit_growth_yoy": 14.05
+  },
+  {
+    "date": "2013-04-05",
+    "bank_credit": 53.49,
+    "deposits": 68.97,
+    "nonfood_credit": 52.51,
+    "credit_growth_yoy": 13.98
+  },
+  {
+    "date": "2013-04-19",
+    "bank_credit": 52.81,
+    "deposits": 68.25,
+    "nonfood_credit": 51.85,
+    "credit_growth_yoy": 14.33
+  },
+  {
+    "date": "2013-05-03",
+    "bank_credit": 53.3,
+    "deposits": 68.69,
+    "nonfood_credit": 52.14,
+    "credit_growth_yoy": 14.72
+  },
+  {
+    "date": "2013-05-17",
+    "bank_credit": 53.2,
+    "deposits": 68.56,
+    "nonfood_credit": 52.0,
+    "credit_growth_yoy": 14.41
+  },
+  {
+    "date": "2013-05-31",
+    "bank_credit": 53.69,
+    "deposits": 69.5,
+    "nonfood_credit": 52.51,
+    "credit_growth_yoy": 13.89
+  },
+  {
+    "date": "2013-06-14",
+    "bank_credit": 53.47,
+    "deposits": 69.36,
+    "nonfood_credit": 52.36,
+    "credit_growth_yoy": 13.43
+  },
+  {
+    "date": "2013-06-28",
+    "bank_credit": 54.05,
+    "deposits": 70.72,
+    "nonfood_credit": 52.92,
+    "credit_growth_yoy": 13.48
+  },
+  {
+    "date": "2013-07-12",
+    "bank_credit": 53.85,
+    "deposits": 70.61,
+    "nonfood_credit": 52.71,
+    "credit_growth_yoy": 13.94
+  },
+  {
+    "date": "2013-07-26",
+    "bank_credit": 53.96,
+    "deposits": 70.68,
+    "nonfood_credit": 52.94,
+    "credit_growth_yoy": 14.71
+  },
+  {
+    "date": "2013-08-09",
+    "bank_credit": 54.9,
+    "deposits": 70.76,
+    "nonfood_credit": 53.81,
+    "credit_growth_yoy": 16.19
+  },
+  {
+    "date": "2013-08-23",
+    "bank_credit": 55.14,
+    "deposits": 70.87,
+    "nonfood_credit": 54.12,
+    "credit_growth_yoy": 16.75
+  },
+  {
+    "date": "2013-09-06",
+    "bank_credit": 55.99,
+    "deposits": 71.48,
+    "nonfood_credit": 54.97,
+    "credit_growth_yoy": 17.87
+  },
+  {
+    "date": "2013-09-20",
+    "bank_credit": 56.02,
+    "deposits": 71.5,
+    "nonfood_credit": 55.03,
+    "credit_growth_yoy": 17.59
+  },
+  {
+    "date": "2013-10-04",
+    "bank_credit": 56.5,
+    "deposits": 73.32,
+    "nonfood_credit": 55.51,
+    "credit_growth_yoy": 17.37
+  },
+  {
+    "date": "2013-10-18",
+    "bank_credit": 55.98,
+    "deposits": 72.95,
+    "nonfood_credit": 55.05,
+    "credit_growth_yoy": 16.29
+  },
+  {
+    "date": "2013-11-01",
+    "bank_credit": 56.42,
+    "deposits": 73.93,
+    "nonfood_credit": 55.39,
+    "credit_growth_yoy": 16.09
+  },
+  {
+    "date": "2013-11-15",
+    "bank_credit": 56.33,
+    "deposits": 73.59,
+    "nonfood_credit": 55.31,
+    "credit_growth_yoy": 15.12
+  },
+  {
+    "date": "2013-11-29",
+    "bank_credit": 56.46,
+    "deposits": 74.46,
+    "nonfood_credit": 55.42,
+    "credit_growth_yoy": 13.85
+  },
+  {
+    "date": "2013-12-13",
+    "bank_credit": 56.85,
+    "deposits": 74.96,
+    "nonfood_credit": 55.77,
+    "credit_growth_yoy": 14.57
+  },
+  {
+    "date": "2013-12-27",
+    "bank_credit": 57.41,
+    "deposits": 74.75,
+    "nonfood_credit": 56.3,
+    "credit_growth_yoy": 14.23
+  },
+  {
+    "date": "2014-01-10",
+    "bank_credit": 57.72,
+    "deposits": 75.23,
+    "nonfood_credit": 56.58,
+    "credit_growth_yoy": 14.5
+  },
+  {
+    "date": "2014-01-24",
+    "bank_credit": 57.76,
+    "deposits": 75.25,
+    "nonfood_credit": 56.64,
+    "credit_growth_yoy": 14.35
+  },
+  {
+    "date": "2014-02-07",
+    "bank_credit": 58.36,
+    "deposits": 75.71,
+    "nonfood_credit": 57.25,
+    "credit_growth_yoy": 14.43
+  },
+  {
+    "date": "2014-02-21",
+    "bank_credit": 58.46,
+    "deposits": 75.77,
+    "nonfood_credit": 57.39,
+    "credit_growth_yoy": 14.02
+  },
+  {
+    "date": "2014-03-07",
+    "bank_credit": 59.21,
+    "deposits": 76.64,
+    "nonfood_credit": 58.21,
+    "credit_growth_yoy": 14.33
+  },
+  {
+    "date": "2014-03-21",
+    "bank_credit": 59.94,
+    "deposits": 77.06,
+    "nonfood_credit": 58.96,
+    "credit_growth_yoy": 13.95
+  },
+  {
+    "date": "2014-04-04",
+    "bank_credit": 60.65,
+    "deposits": 79.02,
+    "nonfood_credit": 59.75,
+    "credit_growth_yoy": 13.39
+  },
+  {
+    "date": "2014-04-18",
+    "bank_credit": 60.13,
+    "deposits": 78.28,
+    "nonfood_credit": 59.2,
+    "credit_growth_yoy": 13.86
+  },
+  {
+    "date": "2014-05-02",
+    "bank_credit": 60.45,
+    "deposits": 78.47,
+    "nonfood_credit": 59.39,
+    "credit_growth_yoy": 13.41
+  },
+  {
+    "date": "2014-05-16",
+    "bank_credit": 60.2,
+    "deposits": 78.14,
+    "nonfood_credit": 59.05,
+    "credit_growth_yoy": 13.16
+  },
+  {
+    "date": "2014-05-30",
+    "bank_credit": 60.42,
+    "deposits": 78.84,
+    "nonfood_credit": 59.25,
+    "credit_growth_yoy": 12.53
+  },
+  {
+    "date": "2014-06-13",
+    "bank_credit": 60.62,
+    "deposits": 78.48,
+    "nonfood_credit": 59.53,
+    "credit_growth_yoy": 13.37
+  },
+  {
+    "date": "2014-06-27",
+    "bank_credit": 60.95,
+    "deposits": 78.99,
+    "nonfood_credit": 59.81,
+    "credit_growth_yoy": 12.77
+  },
+  {
+    "date": "2014-07-11",
+    "bank_credit": 60.97,
+    "deposits": 79.54,
+    "nonfood_credit": 59.84,
+    "credit_growth_yoy": 13.22
+  },
+  {
+    "date": "2014-07-25",
+    "bank_credit": 60.84,
+    "deposits": 79.49,
+    "nonfood_credit": 59.72,
+    "credit_growth_yoy": 12.75
+  },
+  {
+    "date": "2014-08-08",
+    "bank_credit": 61.0,
+    "deposits": 80.16,
+    "nonfood_credit": 59.92,
+    "credit_growth_yoy": 11.11
+  },
+  {
+    "date": "2014-08-22",
+    "bank_credit": 60.87,
+    "deposits": 80.06,
+    "nonfood_credit": 59.79,
+    "credit_growth_yoy": 10.39
+  },
+  {
+    "date": "2014-09-05",
+    "bank_credit": 61.12,
+    "deposits": 80.9,
+    "nonfood_credit": 60.08,
+    "credit_growth_yoy": 9.16
+  },
+  {
+    "date": "2014-09-19",
+    "bank_credit": 61.18,
+    "deposits": 80.54,
+    "nonfood_credit": 60.13,
+    "credit_growth_yoy": 9.21
+  },
+  {
+    "date": "2014-10-03",
+    "bank_credit": 62.4,
+    "deposits": 82.37,
+    "nonfood_credit": 61.41,
+    "credit_growth_yoy": 10.44
+  },
+  {
+    "date": "2014-10-17",
+    "bank_credit": 61.92,
+    "deposits": 81.61,
+    "nonfood_credit": 60.92,
+    "credit_growth_yoy": 10.61
+  },
+  {
+    "date": "2014-10-31",
+    "bank_credit": 62.44,
+    "deposits": 82.24,
+    "nonfood_credit": 61.35,
+    "credit_growth_yoy": 10.67
+  },
+  {
+    "date": "2014-11-14",
+    "bank_credit": 62.24,
+    "deposits": 82.01,
+    "nonfood_credit": 61.19,
+    "credit_growth_yoy": 10.49
+  },
+  {
+    "date": "2014-11-28",
+    "bank_credit": 62.55,
+    "deposits": 82.64,
+    "nonfood_credit": 61.48,
+    "credit_growth_yoy": 10.79
+  },
+  {
+    "date": "2014-12-12",
+    "bank_credit": 62.75,
+    "deposits": 82.4,
+    "nonfood_credit": 61.7,
+    "credit_growth_yoy": 10.38
+  },
+  {
+    "date": "2014-12-26",
+    "bank_credit": 63.19,
+    "deposits": 82.83,
+    "nonfood_credit": 62.1,
+    "credit_growth_yoy": 10.07
+  },
+  {
+    "date": "2015-01-09",
+    "bank_credit": 63.62,
+    "deposits": 83.63,
+    "nonfood_credit": 62.53,
+    "credit_growth_yoy": 10.22
+  },
+  {
+    "date": "2015-01-23",
+    "bank_credit": 63.64,
+    "deposits": 83.41,
+    "nonfood_credit": 62.61,
+    "credit_growth_yoy": 10.18
+  },
+  {
+    "date": "2015-02-06",
+    "bank_credit": 64.13,
+    "deposits": 84.1,
+    "nonfood_credit": 63.1,
+    "credit_growth_yoy": 9.89
+  },
+  {
+    "date": "2015-02-20",
+    "bank_credit": 64.26,
+    "deposits": 84.22,
+    "nonfood_credit": 63.26,
+    "credit_growth_yoy": 9.92
+  },
+  {
+    "date": "2015-03-06",
+    "bank_credit": 65.0,
+    "deposits": 85.06,
+    "nonfood_credit": 64.02,
+    "credit_growth_yoy": 9.78
+  },
+  {
+    "date": "2015-03-20",
+    "bank_credit": 65.36,
+    "deposits": 85.33,
+    "nonfood_credit": 64.42,
+    "credit_growth_yoy": 9.04
+  },
+  {
+    "date": "2015-04-03",
+    "bank_credit": 68.03,
+    "deposits": 88.59,
+    "nonfood_credit": 67.33,
+    "credit_growth_yoy": 12.17
+  },
+  {
+    "date": "2015-04-17",
+    "bank_credit": 65.75,
+    "deposits": 86.69,
+    "nonfood_credit": 64.88,
+    "credit_growth_yoy": 9.35
+  },
+  {
+    "date": "2015-05-01",
+    "bank_credit": 66.51,
+    "deposits": 87.61,
+    "nonfood_credit": 65.47,
+    "credit_growth_yoy": 10.02
+  },
+  {
+    "date": "2015-05-15",
+    "bank_credit": 66.04,
+    "deposits": 86.87,
+    "nonfood_credit": 64.92,
+    "credit_growth_yoy": 9.7
+  },
+  {
+    "date": "2015-05-29",
+    "bank_credit": 66.06,
+    "deposits": 87.38,
+    "nonfood_credit": 64.9,
+    "credit_growth_yoy": 9.33
+  },
+  {
+    "date": "2015-06-12",
+    "bank_credit": 66.61,
+    "deposits": 87.15,
+    "nonfood_credit": 65.44,
+    "credit_growth_yoy": 9.88
+  },
+  {
+    "date": "2015-06-26",
+    "bank_credit": 66.31,
+    "deposits": 87.46,
+    "nonfood_credit": 65.19,
+    "credit_growth_yoy": 8.79
+  },
+  {
+    "date": "2015-07-10",
+    "bank_credit": 66.42,
+    "deposits": 88.3,
+    "nonfood_credit": 65.34,
+    "credit_growth_yoy": 8.94
+  },
+  {
+    "date": "2015-07-24",
+    "bank_credit": 66.28,
+    "deposits": 88.31,
+    "nonfood_credit": 65.19,
+    "credit_growth_yoy": 8.94
+  },
+  {
+    "date": "2015-08-07",
+    "bank_credit": 66.43,
+    "deposits": 88.87,
+    "nonfood_credit": 65.42,
+    "credit_growth_yoy": 8.9
+  },
+  {
+    "date": "2015-08-21",
+    "bank_credit": 66.39,
+    "deposits": 89.08,
+    "nonfood_credit": 65.36,
+    "credit_growth_yoy": 9.07
+  },
+  {
+    "date": "2015-09-04",
+    "bank_credit": 66.72,
+    "deposits": 89.76,
+    "nonfood_credit": 65.71,
+    "credit_growth_yoy": 9.16
+  },
+  {
+    "date": "2015-09-18",
+    "bank_credit": 66.86,
+    "deposits": 89.08,
+    "nonfood_credit": 65.83,
+    "credit_growth_yoy": 9.28
+  },
+  {
+    "date": "2015-10-02",
+    "bank_credit": 68.1,
+    "deposits": 91.14,
+    "nonfood_credit": 67.22,
+    "credit_growth_yoy": 9.13
+  },
+  {
+    "date": "2015-10-16",
+    "bank_credit": 67.63,
+    "deposits": 90.23,
+    "nonfood_credit": 66.69,
+    "credit_growth_yoy": 9.22
+  },
+  {
+    "date": "2015-10-30",
+    "bank_credit": 67.95,
+    "deposits": 90.91,
+    "nonfood_credit": 66.92,
+    "credit_growth_yoy": 8.82
+  },
+  {
+    "date": "2015-11-13",
+    "bank_credit": 68.14,
+    "deposits": 90.53,
+    "nonfood_credit": 67.12,
+    "credit_growth_yoy": 9.48
+  },
+  {
+    "date": "2015-11-27",
+    "bank_credit": 68.39,
+    "deposits": 90.73,
+    "nonfood_credit": 67.3,
+    "credit_growth_yoy": 9.34
+  },
+  {
+    "date": "2015-12-11",
+    "bank_credit": 69.4,
+    "deposits": 91.38,
+    "nonfood_credit": 68.3,
+    "credit_growth_yoy": 10.6
+  },
+  {
+    "date": "2015-12-25",
+    "bank_credit": 69.88,
+    "deposits": 91.32,
+    "nonfood_credit": 68.77,
+    "credit_growth_yoy": 10.59
+  },
+  {
+    "date": "2016-01-08",
+    "bank_credit": 70.51,
+    "deposits": 92.26,
+    "nonfood_credit": 69.51,
+    "credit_growth_yoy": 10.83
+  },
+  {
+    "date": "2016-01-22",
+    "bank_credit": 70.55,
+    "deposits": 92.18,
+    "nonfood_credit": 69.53,
+    "credit_growth_yoy": 10.86
+  },
+  {
+    "date": "2016-02-05",
+    "bank_credit": 71.25,
+    "deposits": 93.1,
+    "nonfood_credit": 70.17,
+    "credit_growth_yoy": 11.1
+  },
+  {
+    "date": "2016-02-19",
+    "bank_credit": 71.45,
+    "deposits": 92.99,
+    "nonfood_credit": 70.37,
+    "credit_growth_yoy": 11.19
+  },
+  {
+    "date": "2016-03-04",
+    "bank_credit": 72.2,
+    "deposits": 93.55,
+    "nonfood_credit": 71.13,
+    "credit_growth_yoy": 11.08
+  },
+  {
+    "date": "2016-03-18",
+    "bank_credit": 72.5,
+    "deposits": 93.27,
+    "nonfood_credit": 71.44,
+    "credit_growth_yoy": 10.92
+  },
+  {
+    "date": "2016-04-01",
+    "bank_credit": 75.0,
+    "deposits": 96.68,
+    "nonfood_credit": 73.99,
+    "credit_growth_yoy": 10.25
+  },
+  {
+    "date": "2016-04-15",
+    "bank_credit": 72.32,
+    "deposits": 94.92,
+    "nonfood_credit": 71.41,
+    "credit_growth_yoy": 9.99
+  },
+  {
+    "date": "2016-04-29",
+    "bank_credit": 72.32,
+    "deposits": 95.25,
+    "nonfood_credit": 71.28,
+    "credit_growth_yoy": 8.74
+  },
+  {
+    "date": "2016-05-13",
+    "bank_credit": 72.25,
+    "deposits": 94.91,
+    "nonfood_credit": 71.14,
+    "credit_growth_yoy": 9.4
+  },
+  {
+    "date": "2016-05-27",
+    "bank_credit": 72.26,
+    "deposits": 95.14,
+    "nonfood_credit": 71.16,
+    "credit_growth_yoy": 9.39
+  },
+  {
+    "date": "2016-06-10",
+    "bank_credit": 72.23,
+    "deposits": 95.13,
+    "nonfood_credit": 71.26,
+    "credit_growth_yoy": 8.44
+  },
+  {
+    "date": "2016-06-24",
+    "bank_credit": 72.28,
+    "deposits": 95.44,
+    "nonfood_credit": 71.28,
+    "credit_growth_yoy": 9.0
+  },
+  {
+    "date": "2016-07-08",
+    "bank_credit": 72.64,
+    "deposits": 96.2,
+    "nonfood_credit": 71.61,
+    "credit_growth_yoy": 9.36
+  },
+  {
+    "date": "2016-07-22",
+    "bank_credit": 72.41,
+    "deposits": 96.22,
+    "nonfood_credit": 71.35,
+    "credit_growth_yoy": 9.25
+  },
+  {
+    "date": "2016-08-05",
+    "bank_credit": 72.68,
+    "deposits": 97.07,
+    "nonfood_credit": 71.64,
+    "credit_growth_yoy": 9.41
+  },
+  {
+    "date": "2016-08-19",
+    "bank_credit": 72.48,
+    "deposits": 96.78,
+    "nonfood_credit": 71.44,
+    "credit_growth_yoy": 9.17
+  },
+  {
+    "date": "2016-09-02",
+    "bank_credit": 72.97,
+    "deposits": 98.06,
+    "nonfood_credit": 71.96,
+    "credit_growth_yoy": 9.37
+  },
+  {
+    "date": "2016-09-16",
+    "bank_credit": 72.83,
+    "deposits": 97.38,
+    "nonfood_credit": 71.87,
+    "credit_growth_yoy": 8.93
+  },
+  {
+    "date": "2016-09-30",
+    "bank_credit": 74.95,
+    "deposits": 100.94,
+    "nonfood_credit": 74.09,
+    "credit_growth_yoy": 10.06
+  },
+  {
+    "date": "2016-10-14",
+    "bank_credit": 73.34,
+    "deposits": 99.11,
+    "nonfood_credit": 72.42,
+    "credit_growth_yoy": 8.44
+  },
+  {
+    "date": "2016-10-28",
+    "bank_credit": 73.84,
+    "deposits": 99.32,
+    "nonfood_credit": 72.82,
+    "credit_growth_yoy": 8.67
+  },
+  {
+    "date": "2016-11-11",
+    "bank_credit": 73.24,
+    "deposits": 100.68,
+    "nonfood_credit": 72.37,
+    "credit_growth_yoy": 7.48
+  },
+  {
+    "date": "2016-11-25",
+    "bank_credit": 72.62,
+    "deposits": 104.85,
+    "nonfood_credit": 71.7,
+    "credit_growth_yoy": 6.19
+  },
+  {
+    "date": "2016-12-09",
+    "bank_credit": 73.12,
+    "deposits": 105.5,
+    "nonfood_credit": 72.12,
+    "credit_growth_yoy": 5.36
+  },
+  {
+    "date": "2016-12-23",
+    "bank_credit": 73.17,
+    "deposits": 104.7,
+    "nonfood_credit": 72.12,
+    "credit_growth_yoy": 4.71
+  },
+  {
+    "date": "2017-01-06",
+    "bank_credit": 73.85,
+    "deposits": 105.29,
+    "nonfood_credit": 72.78,
+    "credit_growth_yoy": 4.74
+  },
+  {
+    "date": "2017-01-20",
+    "bank_credit": 73.9,
+    "deposits": 104.45,
+    "nonfood_credit": 72.86,
+    "credit_growth_yoy": 4.75
+  },
+  {
+    "date": "2017-02-03",
+    "bank_credit": 74.46,
+    "deposits": 105.1,
+    "nonfood_credit": 73.39,
+    "credit_growth_yoy": 4.51
+  },
+  {
+    "date": "2017-02-17",
+    "bank_credit": 74.59,
+    "deposits": 104.4,
+    "nonfood_credit": 73.53,
+    "credit_growth_yoy": 4.39
+  },
+  {
+    "date": "2017-03-03",
+    "bank_credit": 74.89,
+    "deposits": 104.94,
+    "nonfood_credit": 74.28,
+    "credit_growth_yoy": 3.73
+  },
+  {
+    "date": "2017-03-17",
+    "bank_credit": 75.38,
+    "deposits": 104.91,
+    "nonfood_credit": 74.82,
+    "credit_growth_yoy": 3.97
+  },
+  {
+    "date": "2017-03-31",
+    "bank_credit": 78.41,
+    "deposits": 107.58,
+    "nonfood_credit": 77.88,
+    "credit_growth_yoy": 4.55
+  },
+  {
+    "date": "2017-04-14",
+    "bank_credit": 76.02,
+    "deposits": 105.38,
+    "nonfood_credit": 75.53,
+    "credit_growth_yoy": 5.12
+  },
+  {
+    "date": "2017-04-28",
+    "bank_credit": 75.82,
+    "deposits": 105.64,
+    "nonfood_credit": 75.27,
+    "credit_growth_yoy": 4.84
+  },
+  {
+    "date": "2017-05-12",
+    "bank_credit": 75.91,
+    "deposits": 105.86,
+    "nonfood_credit": 75.33,
+    "credit_growth_yoy": 5.07
+  },
+  {
+    "date": "2017-05-26",
+    "bank_credit": 75.69,
+    "deposits": 105.0,
+    "nonfood_credit": 75.09,
+    "credit_growth_yoy": 4.75
+  },
+  {
+    "date": "2017-06-09",
+    "bank_credit": 76.31,
+    "deposits": 105.25,
+    "nonfood_credit": 75.73,
+    "credit_growth_yoy": 5.65
+  },
+  {
+    "date": "2017-06-23",
+    "bank_credit": 76.36,
+    "deposits": 105.52,
+    "nonfood_credit": 75.77,
+    "credit_growth_yoy": 5.64
+  },
+  {
+    "date": "2017-07-07",
+    "bank_credit": 76.78,
+    "deposits": 106.02,
+    "nonfood_credit": 76.27,
+    "credit_growth_yoy": 5.7
+  },
+  {
+    "date": "2017-07-21",
+    "bank_credit": 76.6,
+    "deposits": 105.76,
+    "nonfood_credit": 76.07,
+    "credit_growth_yoy": 5.79
+  },
+  {
+    "date": "2017-08-04",
+    "bank_credit": 77.02,
+    "deposits": 107.04,
+    "nonfood_credit": 76.47,
+    "credit_growth_yoy": 5.97
+  },
+  {
+    "date": "2017-08-18",
+    "bank_credit": 76.81,
+    "deposits": 106.28,
+    "nonfood_credit": 76.27,
+    "credit_growth_yoy": 5.97
+  },
+  {
+    "date": "2017-09-01",
+    "bank_credit": 77.44,
+    "deposits": 106.96,
+    "nonfood_credit": 76.94,
+    "credit_growth_yoy": 6.13
+  },
+  {
+    "date": "2017-09-15",
+    "bank_credit": 77.54,
+    "deposits": 106.56,
+    "nonfood_credit": 77.01,
+    "credit_growth_yoy": 6.47
+  },
+  {
+    "date": "2017-09-29",
+    "bank_credit": 79.83,
+    "deposits": 109.18,
+    "nonfood_credit": 79.37,
+    "credit_growth_yoy": 6.51
+  },
+  {
+    "date": "2017-10-13",
+    "bank_credit": 78.64,
+    "deposits": 108.26,
+    "nonfood_credit": 78.15,
+    "credit_growth_yoy": 7.23
+  },
+  {
+    "date": "2017-10-27",
+    "bank_credit": 78.85,
+    "deposits": 107.98,
+    "nonfood_credit": 78.22,
+    "credit_growth_yoy": 6.78
+  },
+  {
+    "date": "2017-11-10",
+    "bank_credit": 79.31,
+    "deposits": 108.36,
+    "nonfood_credit": 78.63,
+    "credit_growth_yoy": 8.29
+  },
+  {
+    "date": "2017-11-24",
+    "bank_credit": 79.35,
+    "deposits": 107.95,
+    "nonfood_credit": 78.6,
+    "credit_growth_yoy": 9.27
+  },
+  {
+    "date": "2017-12-08",
+    "bank_credit": 79.98,
+    "deposits": 108.38,
+    "nonfood_credit": 79.29,
+    "credit_growth_yoy": 9.38
+  },
+  {
+    "date": "2017-12-22",
+    "bank_credit": 80.68,
+    "deposits": 108.21,
+    "nonfood_credit": 80.02,
+    "credit_growth_yoy": 10.26
+  },
+  {
+    "date": "2018-01-05",
+    "bank_credit": 81.53,
+    "deposits": 109.49,
+    "nonfood_credit": 80.95,
+    "credit_growth_yoy": 10.4
+  },
+  {
+    "date": "2018-01-19",
+    "bank_credit": 81.42,
+    "deposits": 109.27,
+    "nonfood_credit": 80.83,
+    "credit_growth_yoy": 10.18
+  },
+  {
+    "date": "2018-02-02",
+    "bank_credit": 82.33,
+    "deposits": 110.58,
+    "nonfood_credit": 81.81,
+    "credit_growth_yoy": 10.57
+  },
+  {
+    "date": "2018-02-16",
+    "bank_credit": 82.23,
+    "deposits": 110.02,
+    "nonfood_credit": 81.76,
+    "credit_growth_yoy": 10.24
+  },
+  {
+    "date": "2018-03-02",
+    "bank_credit": 83.19,
+    "deposits": 111.37,
+    "nonfood_credit": 82.73,
+    "credit_growth_yoy": 11.08
+  },
+  {
+    "date": "2018-03-16",
+    "bank_credit": 83.47,
+    "deposits": 111.12,
+    "nonfood_credit": 83.05,
+    "credit_growth_yoy": 10.73
+  },
+  {
+    "date": "2018-03-30",
+    "bank_credit": 86.25,
+    "deposits": 114.26,
+    "nonfood_credit": 85.83,
+    "credit_growth_yoy": 10.0
+  },
+  {
+    "date": "2018-04-13",
+    "bank_credit": 84.46,
+    "deposits": 113.29,
+    "nonfood_credit": 84.14,
+    "credit_growth_yoy": 11.1
+  },
+  {
+    "date": "2018-04-27",
+    "bank_credit": 85.18,
+    "deposits": 113.81,
+    "nonfood_credit": 84.66,
+    "credit_growth_yoy": 12.35
+  },
+  {
+    "date": "2018-05-11",
+    "bank_credit": 85.21,
+    "deposits": 113.43,
+    "nonfood_credit": 84.63,
+    "credit_growth_yoy": 12.25
+  },
+  {
+    "date": "2018-05-25",
+    "bank_credit": 85.38,
+    "deposits": 113.53,
+    "nonfood_credit": 84.85,
+    "credit_growth_yoy": 12.8
+  },
+  {
+    "date": "2018-06-08",
+    "bank_credit": 85.94,
+    "deposits": 114.08,
+    "nonfood_credit": 85.28,
+    "credit_growth_yoy": 12.62
+  },
+  {
+    "date": "2018-06-22",
+    "bank_credit": 86.14,
+    "deposits": 113.53,
+    "nonfood_credit": 85.52,
+    "credit_growth_yoy": 12.81
+  },
+  {
+    "date": "2018-07-06",
+    "bank_credit": 86.57,
+    "deposits": 114.88,
+    "nonfood_credit": 85.97,
+    "credit_growth_yoy": 12.75
+  },
+  {
+    "date": "2018-07-20",
+    "bank_credit": 86.1,
+    "deposits": 114.37,
+    "nonfood_credit": 85.59,
+    "credit_growth_yoy": 12.4
+  },
+  {
+    "date": "2018-08-03",
+    "bank_credit": 86.73,
+    "deposits": 115.77,
+    "nonfood_credit": 86.24,
+    "credit_growth_yoy": 12.61
+  },
+  {
+    "date": "2018-08-17",
+    "bank_credit": 86.73,
+    "deposits": 115.11,
+    "nonfood_credit": 86.19,
+    "credit_growth_yoy": 12.91
+  },
+  {
+    "date": "2018-08-31",
+    "bank_credit": 87.81,
+    "deposits": 116.47,
+    "nonfood_credit": 87.32,
+    "credit_growth_yoy": 13.39
+  },
+  {
+    "date": "2018-09-14",
+    "bank_credit": 87.98,
+    "deposits": 115.64,
+    "nonfood_credit": 87.49,
+    "credit_growth_yoy": 13.46
+  },
+  {
+    "date": "2018-09-28",
+    "bank_credit": 89.82,
+    "deposits": 118.0,
+    "nonfood_credit": 89.34,
+    "credit_growth_yoy": 12.51
+  },
+  {
+    "date": "2018-10-12",
+    "bank_credit": 89.93,
+    "deposits": 117.86,
+    "nonfood_credit": 89.48,
+    "credit_growth_yoy": 14.36
+  },
+  {
+    "date": "2018-10-26",
+    "bank_credit": 90.34,
+    "deposits": 117.71,
+    "nonfood_credit": 89.79,
+    "credit_growth_yoy": 14.57
+  },
+  {
+    "date": "2018-11-09",
+    "bank_credit": 91.11,
+    "deposits": 118.26,
+    "nonfood_credit": 90.51,
+    "credit_growth_yoy": 14.88
+  },
+  {
+    "date": "2018-11-23",
+    "bank_credit": 91.33,
+    "deposits": 118.14,
+    "nonfood_credit": 90.6,
+    "credit_growth_yoy": 15.1
+  },
+  {
+    "date": "2018-12-07",
+    "bank_credit": 92.06,
+    "deposits": 118.85,
+    "nonfood_credit": 91.27,
+    "credit_growth_yoy": 15.1
+  },
+  {
+    "date": "2018-12-21",
+    "bank_credit": 92.88,
+    "deposits": 118.16,
+    "nonfood_credit": 92.1,
+    "credit_growth_yoy": 15.12
+  },
+  {
+    "date": "2019-01-04",
+    "bank_credit": 93.37,
+    "deposits": 120.34,
+    "nonfood_credit": 92.65,
+    "credit_growth_yoy": 14.52
+  },
+  {
+    "date": "2019-01-18",
+    "bank_credit": 93.33,
+    "deposits": 119.86,
+    "nonfood_credit": 92.62,
+    "credit_growth_yoy": 14.63
+  },
+  {
+    "date": "2019-02-01",
+    "bank_credit": 94.3,
+    "deposits": 121.23,
+    "nonfood_credit": 93.62,
+    "credit_growth_yoy": 14.54
+  },
+  {
+    "date": "2019-02-15",
+    "bank_credit": 94.4,
+    "deposits": 121.19,
+    "nonfood_credit": 93.79,
+    "credit_growth_yoy": 14.8
+  },
+  {
+    "date": "2019-03-01",
+    "bank_credit": 95.2,
+    "deposits": 122.31,
+    "nonfood_credit": 94.65,
+    "credit_growth_yoy": 14.44
+  },
+  {
+    "date": "2019-03-15",
+    "bank_credit": 95.56,
+    "deposits": 122.27,
+    "nonfood_credit": 95.04,
+    "credit_growth_yoy": 14.48
+  },
+  {
+    "date": "2019-03-29",
+    "bank_credit": 97.72,
+    "deposits": 125.74,
+    "nonfood_credit": 97.3,
+    "credit_growth_yoy": 13.3
+  },
+  {
+    "date": "2019-04-12",
+    "bank_credit": 96.45,
+    "deposits": 125.3,
+    "nonfood_credit": 96.09,
+    "credit_growth_yoy": 14.2
+  },
+  {
+    "date": "2019-04-26",
+    "bank_credit": 96.21,
+    "deposits": 124.84,
+    "nonfood_credit": 95.78,
+    "credit_growth_yoy": 12.95
+  },
+  {
+    "date": "2019-05-10",
+    "bank_credit": 96.25,
+    "deposits": 125.17,
+    "nonfood_credit": 95.63,
+    "credit_growth_yoy": 12.96
+  },
+  {
+    "date": "2019-05-24",
+    "bank_credit": 96.22,
+    "deposits": 125.0,
+    "nonfood_credit": 95.56,
+    "credit_growth_yoy": 12.7
+  },
+  {
+    "date": "2019-06-07",
+    "bank_credit": 96.52,
+    "deposits": 125.4,
+    "nonfood_credit": 95.74,
+    "credit_growth_yoy": 12.31
+  },
+  {
+    "date": "2019-06-21",
+    "bank_credit": 96.49,
+    "deposits": 124.92,
+    "nonfood_credit": 95.77,
+    "credit_growth_yoy": 12.02
+  },
+  {
+    "date": "2019-07-05",
+    "bank_credit": 96.97,
+    "deposits": 126.75,
+    "nonfood_credit": 96.27,
+    "credit_growth_yoy": 12.01
+  },
+  {
+    "date": "2019-07-19",
+    "bank_credit": 96.58,
+    "deposits": 126.51,
+    "nonfood_credit": 95.92,
+    "credit_growth_yoy": 12.17
+  },
+  {
+    "date": "2019-08-02",
+    "bank_credit": 97.29,
+    "deposits": 127.45,
+    "nonfood_credit": 96.66,
+    "credit_growth_yoy": 12.18
+  },
+  {
+    "date": "2019-08-16",
+    "bank_credit": 96.85,
+    "deposits": 126.8,
+    "nonfood_credit": 96.19,
+    "credit_growth_yoy": 11.67
+  },
+  {
+    "date": "2019-08-30",
+    "bank_credit": 96.8,
+    "deposits": 127.8,
+    "nonfood_credit": 96.18,
+    "credit_growth_yoy": 10.24
+  },
+  {
+    "date": "2019-09-13",
+    "bank_credit": 97.14,
+    "deposits": 127.23,
+    "nonfood_credit": 96.49,
+    "credit_growth_yoy": 10.41
+  },
+  {
+    "date": "2019-09-27",
+    "bank_credit": 97.69,
+    "deposits": 129.06,
+    "nonfood_credit": 97.09,
+    "credit_growth_yoy": 8.76
+  },
+  {
+    "date": "2019-10-11",
+    "bank_credit": 97.89,
+    "deposits": 129.38,
+    "nonfood_credit": 97.29,
+    "credit_growth_yoy": 8.85
+  },
+  {
+    "date": "2019-10-25",
+    "bank_credit": 98.41,
+    "deposits": 129.78,
+    "nonfood_credit": 97.71,
+    "credit_growth_yoy": 8.93
+  },
+  {
+    "date": "2019-11-08",
+    "bank_credit": 98.46,
+    "deposits": 129.98,
+    "nonfood_credit": 97.66,
+    "credit_growth_yoy": 8.07
+  },
+  {
+    "date": "2019-11-22",
+    "bank_credit": 98.6,
+    "deposits": 129.58,
+    "nonfood_credit": 97.69,
+    "credit_growth_yoy": 7.96
+  },
+  {
+    "date": "2019-12-06",
+    "bank_credit": 99.35,
+    "deposits": 131.06,
+    "nonfood_credit": 98.1,
+    "credit_growth_yoy": 7.92
+  },
+  {
+    "date": "2019-12-20",
+    "bank_credit": 99.47,
+    "deposits": 130.09,
+    "nonfood_credit": 98.62,
+    "credit_growth_yoy": 7.1
+  },
+  {
+    "date": "2020-01-03",
+    "bank_credit": 100.36,
+    "deposits": 132.1,
+    "nonfood_credit": 99.53,
+    "credit_growth_yoy": 7.49
+  },
+  {
+    "date": "2020-01-17",
+    "bank_credit": 100.04,
+    "deposits": 131.27,
+    "nonfood_credit": 99.22,
+    "credit_growth_yoy": 7.19
+  },
+  {
+    "date": "2020-01-31",
+    "bank_credit": 101.05,
+    "deposits": 133.24,
+    "nonfood_credit": 100.26,
+    "credit_growth_yoy": 7.16
+  },
+  {
+    "date": "2020-02-14",
+    "bank_credit": 100.43,
+    "deposits": 132.26,
+    "nonfood_credit": 99.69,
+    "credit_growth_yoy": 6.39
+  },
+  {
+    "date": "2020-02-28",
+    "bank_credit": 101.05,
+    "deposits": 133.26,
+    "nonfood_credit": 100.39,
+    "credit_growth_yoy": 6.14
+  },
+  {
+    "date": "2020-03-13",
+    "bank_credit": 101.4,
+    "deposits": 133.39,
+    "nonfood_credit": 100.8,
+    "credit_growth_yoy": 6.11
+  },
+  {
+    "date": "2020-03-27",
+    "bank_credit": 103.71,
+    "deposits": 135.67,
+    "nonfood_credit": 103.19,
+    "credit_growth_yoy": 6.13
+  },
+  {
+    "date": "2020-04-10",
+    "bank_credit": 103.38,
+    "deposits": 137.15,
+    "nonfood_credit": 102.84,
+    "credit_growth_yoy": 7.19
+  },
+  {
+    "date": "2020-04-24",
+    "bank_credit": 102.73,
+    "deposits": 137.23,
+    "nonfood_credit": 102.21,
+    "credit_growth_yoy": 6.78
+  },
+  {
+    "date": "2020-05-08",
+    "bank_credit": 102.52,
+    "deposits": 138.5,
+    "nonfood_credit": 101.83,
+    "credit_growth_yoy": 6.51
+  },
+  {
+    "date": "2020-05-22",
+    "bank_credit": 102.23,
+    "deposits": 138.3,
+    "nonfood_credit": 101.43,
+    "credit_growth_yoy": 6.25
+  },
+  {
+    "date": "2020-06-05",
+    "bank_credit": 102.55,
+    "deposits": 139.56,
+    "nonfood_credit": 101.69,
+    "credit_growth_yoy": 6.25
+  },
+  {
+    "date": "2020-06-19",
+    "bank_credit": 102.46,
+    "deposits": 138.67,
+    "nonfood_credit": 101.56,
+    "credit_growth_yoy": 6.19
+  },
+  {
+    "date": "2020-07-03",
+    "bank_credit": 103.04,
+    "deposits": 140.77,
+    "nonfood_credit": 102.18,
+    "credit_growth_yoy": 6.26
+  },
+  {
+    "date": "2020-07-17",
+    "bank_credit": 102.19,
+    "deposits": 140.21,
+    "nonfood_credit": 101.33,
+    "credit_growth_yoy": 5.81
+  },
+  {
+    "date": "2020-07-31",
+    "bank_credit": 102.82,
+    "deposits": 141.61,
+    "nonfood_credit": 102.03,
+    "credit_growth_yoy": 5.68
+  },
+  {
+    "date": "2020-08-14",
+    "bank_credit": 102.2,
+    "deposits": 140.81,
+    "nonfood_credit": 101.46,
+    "credit_growth_yoy": 5.52
+  },
+  {
+    "date": "2020-08-28",
+    "bank_credit": 102.16,
+    "deposits": 141.77,
+    "nonfood_credit": 101.5,
+    "credit_growth_yoy": 5.54
+  },
+  {
+    "date": "2020-09-11",
+    "bank_credit": 102.27,
+    "deposits": 142.47,
+    "nonfood_credit": 101.63,
+    "credit_growth_yoy": 5.28
+  },
+  {
+    "date": "2020-09-25",
+    "bank_credit": 102.72,
+    "deposits": 142.62,
+    "nonfood_credit": 102.05,
+    "credit_growth_yoy": 5.15
+  },
+  {
+    "date": "2020-10-09",
+    "bank_credit": 103.43,
+    "deposits": 143.02,
+    "nonfood_credit": 102.8,
+    "credit_growth_yoy": 5.66
+  },
+  {
+    "date": "2020-10-23",
+    "bank_credit": 103.39,
+    "deposits": 142.92,
+    "nonfood_credit": 102.72,
+    "credit_growth_yoy": 5.06
+  },
+  {
+    "date": "2020-11-06",
+    "bank_credit": 104.19,
+    "deposits": 144.03,
+    "nonfood_credit": 103.36,
+    "credit_growth_yoy": 5.82
+  },
+  {
+    "date": "2020-11-20",
+    "bank_credit": 104.35,
+    "deposits": 143.7,
+    "nonfood_credit": 103.46,
+    "credit_growth_yoy": 5.83
+  },
+  {
+    "date": "2020-12-04",
+    "bank_credit": 104.98,
+    "deposits": 145.83,
+    "nonfood_credit": 104.02,
+    "credit_growth_yoy": 5.67
+  },
+  {
+    "date": "2020-12-18",
+    "bank_credit": 105.47,
+    "deposits": 144.79,
+    "nonfood_credit": 104.54,
+    "credit_growth_yoy": 6.03
+  },
+  {
+    "date": "2021-01-01",
+    "bank_credit": 107.03,
+    "deposits": 147.27,
+    "nonfood_credit": 106.1,
+    "credit_growth_yoy": 6.65
+  },
+  {
+    "date": "2021-01-15",
+    "bank_credit": 106.43,
+    "deposits": 146.25,
+    "nonfood_credit": 105.56,
+    "credit_growth_yoy": 6.39
+  },
+  {
+    "date": "2021-01-29",
+    "bank_credit": 107.04,
+    "deposits": 148.03,
+    "nonfood_credit": 106.17,
+    "credit_growth_yoy": 5.93
+  },
+  {
+    "date": "2021-02-12",
+    "bank_credit": 107.04,
+    "deposits": 147.81,
+    "nonfood_credit": 106.28,
+    "credit_growth_yoy": 6.58
+  },
+  {
+    "date": "2021-02-26",
+    "bank_credit": 107.75,
+    "deposits": 149.34,
+    "nonfood_credit": 107.0,
+    "credit_growth_yoy": 6.63
+  },
+  {
+    "date": "2021-03-12",
+    "bank_credit": 107.96,
+    "deposits": 149.56,
+    "nonfood_credit": 107.27,
+    "credit_growth_yoy": 6.47
+  },
+  {
+    "date": "2021-03-26",
+    "bank_credit": 109.5,
+    "deposits": 151.14,
+    "nonfood_credit": 108.88,
+    "credit_growth_yoy": 5.58
+  },
+  {
+    "date": "2021-04-09",
+    "bank_credit": 108.88,
+    "deposits": 152.11,
+    "nonfood_credit": 108.39,
+    "credit_growth_yoy": 5.32
+  },
+  {
+    "date": "2021-04-23",
+    "bank_credit": 108.6,
+    "deposits": 151.34,
+    "nonfood_credit": 108.02,
+    "credit_growth_yoy": 5.71
+  },
+  {
+    "date": "2021-05-07",
+    "bank_credit": 108.7,
+    "deposits": 152.17,
+    "nonfood_credit": 107.85,
+    "credit_growth_yoy": 6.03
+  },
+  {
+    "date": "2021-05-21",
+    "bank_credit": 108.31,
+    "deposits": 151.67,
+    "nonfood_credit": 107.41,
+    "credit_growth_yoy": 5.95
+  },
+  {
+    "date": "2021-06-04",
+    "bank_credit": 108.44,
+    "deposits": 153.13,
+    "nonfood_credit": 107.54,
+    "credit_growth_yoy": 5.74
+  },
+  {
+    "date": "2021-06-18",
+    "bank_credit": 108.42,
+    "deposits": 152.99,
+    "nonfood_credit": 107.55,
+    "credit_growth_yoy": 5.82
+  },
+  {
+    "date": "2021-07-02",
+    "bank_credit": 109.29,
+    "deposits": 154.51,
+    "nonfood_credit": 108.45,
+    "credit_growth_yoy": 6.07
+  },
+  {
+    "date": "2021-07-16",
+    "bank_credit": 108.78,
+    "deposits": 155.14,
+    "nonfood_credit": 107.93,
+    "credit_growth_yoy": 6.45
+  },
+  {
+    "date": "2021-07-30",
+    "bank_credit": 109.11,
+    "deposits": 155.49,
+    "nonfood_credit": 108.33,
+    "credit_growth_yoy": 6.12
+  },
+  {
+    "date": "2021-08-13",
+    "bank_credit": 108.89,
+    "deposits": 155.72,
+    "nonfood_credit": 108.17,
+    "credit_growth_yoy": 6.55
+  },
+  {
+    "date": "2021-08-27",
+    "bank_credit": 108.98,
+    "deposits": 155.17,
+    "nonfood_credit": 108.29,
+    "credit_growth_yoy": 6.68
+  },
+  {
+    "date": "2021-09-10",
+    "bank_credit": 109.13,
+    "deposits": 155.75,
+    "nonfood_credit": 108.43,
+    "credit_growth_yoy": 6.71
+  },
+  {
+    "date": "2021-09-24",
+    "bank_credit": 109.57,
+    "deposits": 155.99,
+    "nonfood_credit": 108.94,
+    "credit_growth_yoy": 6.67
+  },
+  {
+    "date": "2021-10-08",
+    "bank_credit": 110.15,
+    "deposits": 157.56,
+    "nonfood_credit": 109.53,
+    "credit_growth_yoy": 6.5
+  },
+  {
+    "date": "2021-10-22",
+    "bank_credit": 110.45,
+    "deposits": 157.13,
+    "nonfood_credit": 109.81,
+    "credit_growth_yoy": 6.83
+  },
+  {
+    "date": "2021-11-05",
+    "bank_credit": 111.61,
+    "deposits": 160.47,
+    "nonfood_credit": 110.84,
+    "credit_growth_yoy": 7.12
+  },
+  {
+    "date": "2021-11-19",
+    "bank_credit": 111.62,
+    "deposits": 157.79,
+    "nonfood_credit": 110.8,
+    "credit_growth_yoy": 6.97
+  },
+  {
+    "date": "2021-12-03",
+    "bank_credit": 111.59,
+    "deposits": 159.52,
+    "nonfood_credit": 110.73,
+    "credit_growth_yoy": 6.3
+  },
+  {
+    "date": "2021-12-17",
+    "bank_credit": 112.02,
+    "deposits": 158.67,
+    "nonfood_credit": 111.17,
+    "credit_growth_yoy": 6.21
+  },
+  {
+    "date": "2021-12-31",
+    "bank_credit": 115.82,
+    "deposits": 162.42,
+    "nonfood_credit": 114.93,
+    "credit_growth_yoy": 8.21
+  },
+  {
+    "date": "2022-01-14",
+    "bank_credit": 113.99,
+    "deposits": 159.83,
+    "nonfood_credit": 113.13,
+    "credit_growth_yoy": 7.1
+  },
+  {
+    "date": "2022-01-28",
+    "bank_credit": 114.69,
+    "deposits": 160.33,
+    "nonfood_credit": 113.87,
+    "credit_growth_yoy": 7.15
+  },
+  {
+    "date": "2022-02-11",
+    "bank_credit": 115.62,
+    "deposits": 161.28,
+    "nonfood_credit": 114.84,
+    "credit_growth_yoy": 8.02
+  },
+  {
+    "date": "2022-02-25",
+    "bank_credit": 116.44,
+    "deposits": 162.18,
+    "nonfood_credit": 115.75,
+    "credit_growth_yoy": 8.06
+  },
+  {
+    "date": "2022-03-11",
+    "bank_credit": 117.12,
+    "deposits": 162.77,
+    "nonfood_credit": 116.51,
+    "credit_growth_yoy": 8.48
+  },
+  {
+    "date": "2022-03-25",
+    "bank_credit": 118.91,
+    "deposits": 164.65,
+    "nonfood_credit": 118.36,
+    "credit_growth_yoy": 8.59
+  },
+  {
+    "date": "2022-04-08",
+    "bank_credit": 119.66,
+    "deposits": 167.41,
+    "nonfood_credit": 119.26,
+    "credit_growth_yoy": 9.9
+  },
+  {
+    "date": "2022-04-22",
+    "bank_credit": 119.56,
+    "deposits": 166.23,
+    "nonfood_credit": 119.14,
+    "credit_growth_yoy": 10.09
+  },
+  {
+    "date": "2022-05-06",
+    "bank_credit": 120.41,
+    "deposits": 166.96,
+    "nonfood_credit": 119.85,
+    "credit_growth_yoy": 10.77
+  },
+  {
+    "date": "2022-05-20",
+    "bank_credit": 120.38,
+    "deposits": 165.74,
+    "nonfood_credit": 119.85,
+    "credit_growth_yoy": 11.14
+  },
+  {
+    "date": "2022-06-03",
+    "bank_credit": 121.43,
+    "deposits": 167.34,
+    "nonfood_credit": 120.94,
+    "credit_growth_yoy": 11.98
+  },
+  {
+    "date": "2022-06-17",
+    "bank_credit": 121.5,
+    "deposits": 165.69,
+    "nonfood_credit": 121.07,
+    "credit_growth_yoy": 12.06
+  },
+  {
+    "date": "2022-07-01",
+    "bank_credit": 123.83,
+    "deposits": 169.61,
+    "nonfood_credit": 123.45,
+    "credit_growth_yoy": 13.3
+  },
+  {
+    "date": "2022-07-15",
+    "bank_credit": 122.81,
+    "deposits": 168.1,
+    "nonfood_credit": 122.45,
+    "credit_growth_yoy": 12.9
+  },
+  {
+    "date": "2022-07-29",
+    "bank_credit": 123.69,
+    "deposits": 169.72,
+    "nonfood_credit": 123.37,
+    "credit_growth_yoy": 13.36
+  },
+  {
+    "date": "2022-08-12",
+    "bank_credit": 124.26,
+    "deposits": 169.49,
+    "nonfood_credit": 123.94,
+    "credit_growth_yoy": 14.12
+  },
+  {
+    "date": "2022-08-26",
+    "bank_credit": 124.59,
+    "deposits": 169.94,
+    "nonfood_credit": 124.31,
+    "credit_growth_yoy": 14.32
+  },
+  {
+    "date": "2022-09-09",
+    "bank_credit": 125.51,
+    "deposits": 170.56,
+    "nonfood_credit": 125.23,
+    "credit_growth_yoy": 15.01
+  },
+  {
+    "date": "2022-09-23",
+    "bank_credit": 126.3,
+    "deposits": 170.32,
+    "nonfood_credit": 126.08,
+    "credit_growth_yoy": 15.27
+  },
+  {
+    "date": "2022-10-07",
+    "bank_credit": 128.59,
+    "deposits": 172.64,
+    "nonfood_credit": 128.38,
+    "credit_growth_yoy": 16.74
+  },
+  {
+    "date": "2022-10-21",
+    "bank_credit": 128.83,
+    "deposits": 172.04,
+    "nonfood_credit": 128.58,
+    "credit_growth_yoy": 16.64
+  },
+  {
+    "date": "2022-11-04",
+    "bank_credit": 129.26,
+    "deposits": 173.66,
+    "nonfood_credit": 128.88,
+    "credit_growth_yoy": 15.81
+  },
+  {
+    "date": "2022-11-18",
+    "bank_credit": 129.48,
+    "deposits": 172.97,
+    "nonfood_credit": 128.96,
+    "credit_growth_yoy": 16.0
+  },
+  {
+    "date": "2022-12-02",
+    "bank_credit": 131.06,
+    "deposits": 175.24,
+    "nonfood_credit": 130.55,
+    "credit_growth_yoy": 17.45
+  },
+  {
+    "date": "2022-12-16",
+    "bank_credit": 131.54,
+    "deposits": 173.54,
+    "nonfood_credit": 131.0,
+    "credit_growth_yoy": 17.43
+  },
+  {
+    "date": "2022-12-30",
+    "bank_credit": 133.07,
+    "deposits": 177.34,
+    "nonfood_credit": 132.53,
+    "credit_growth_yoy": 14.89
+  },
+  {
+    "date": "2023-01-13",
+    "bank_credit": 132.77,
+    "deposits": 176.75,
+    "nonfood_credit": 132.24,
+    "credit_growth_yoy": 16.48
+  },
+  {
+    "date": "2023-01-27",
+    "bank_credit": 133.38,
+    "deposits": 177.19,
+    "nonfood_credit": 132.87,
+    "credit_growth_yoy": 16.3
+  },
+  {
+    "date": "2023-02-10",
+    "bank_credit": 134.18,
+    "deposits": 177.74,
+    "nonfood_credit": 133.74,
+    "credit_growth_yoy": 16.05
+  },
+  {
+    "date": "2023-02-24",
+    "bank_credit": 134.5,
+    "deposits": 178.62,
+    "nonfood_credit": 134.15,
+    "credit_growth_yoy": 15.51
+  },
+  {
+    "date": "2023-03-10",
+    "bank_credit": 135.49,
+    "deposits": 179.58,
+    "nonfood_credit": 135.2,
+    "credit_growth_yoy": 15.68
+  },
+  {
+    "date": "2023-03-24",
+    "bank_credit": 136.75,
+    "deposits": 180.44,
+    "nonfood_credit": 136.55,
+    "credit_growth_yoy": 15.0
+  },
+  {
+    "date": "2023-04-07",
+    "bank_credit": 138.51,
+    "deposits": 184.48,
+    "nonfood_credit": 138.3,
+    "credit_growth_yoy": 15.75
+  },
+  {
+    "date": "2023-04-21",
+    "bank_credit": 138.59,
+    "deposits": 183.12,
+    "nonfood_credit": 138.38,
+    "credit_growth_yoy": 15.92
+  },
+  {
+    "date": "2023-05-05",
+    "bank_credit": 139.01,
+    "deposits": 184.35,
+    "nonfood_credit": 138.68,
+    "credit_growth_yoy": 15.45
+  },
+  {
+    "date": "2023-05-19",
+    "bank_credit": 138.94,
+    "deposits": 183.76,
+    "nonfood_credit": 138.58,
+    "credit_growth_yoy": 15.42
+  },
+  {
+    "date": "2023-06-02",
+    "bank_credit": 140.1,
+    "deposits": 187.03,
+    "nonfood_credit": 139.73,
+    "credit_growth_yoy": 15.38
+  },
+  {
+    "date": "2023-06-16",
+    "bank_credit": 140.23,
+    "deposits": 185.68,
+    "nonfood_credit": 139.95,
+    "credit_growth_yoy": 15.42
+  },
+  {
+    "date": "2023-06-30",
+    "bank_credit": 143.84,
+    "deposits": 191.56,
+    "nonfood_credit": 143.56,
+    "credit_growth_yoy": 16.16
+  },
+  {
+    "date": "2023-07-14",
+    "bank_credit": 147.46,
+    "deposits": 190.31,
+    "nonfood_credit": 147.22,
+    "credit_growth_yoy": 20.07
+  },
+  {
+    "date": "2023-07-28",
+    "bank_credit": 147.87,
+    "deposits": 191.68,
+    "nonfood_credit": 147.66,
+    "credit_growth_yoy": 19.55
+  },
+  {
+    "date": "2023-08-11",
+    "bank_credit": 148.61,
+    "deposits": 192.38,
+    "nonfood_credit": 148.41,
+    "credit_growth_yoy": 19.6
+  },
+  {
+    "date": "2023-08-25",
+    "bank_credit": 149.17,
+    "deposits": 192.41,
+    "nonfood_credit": 148.98,
+    "credit_growth_yoy": 19.73
+  },
+  {
+    "date": "2023-09-08",
+    "bank_credit": 150.39,
+    "deposits": 193.89,
+    "nonfood_credit": 150.2,
+    "credit_growth_yoy": 19.82
+  },
+  {
+    "date": "2023-09-22",
+    "bank_credit": 151.51,
+    "deposits": 192.81,
+    "nonfood_credit": 151.32,
+    "credit_growth_yoy": 19.96
+  },
+  {
+    "date": "2023-10-06",
+    "bank_credit": 153.38,
+    "deposits": 196.08,
+    "nonfood_credit": 153.19,
+    "credit_growth_yoy": 19.28
+  },
+  {
+    "date": "2023-10-20",
+    "bank_credit": 154.58,
+    "deposits": 195.16,
+    "nonfood_credit": 154.38,
+    "credit_growth_yoy": 19.99
+  },
+  {
+    "date": "2023-11-03",
+    "bank_credit": 155.85,
+    "deposits": 197.12,
+    "nonfood_credit": 155.62,
+    "credit_growth_yoy": 20.57
+  },
+  {
+    "date": "2023-11-17",
+    "bank_credit": 156.21,
+    "deposits": 196.52,
+    "nonfood_credit": 155.81,
+    "credit_growth_yoy": 20.64
+  },
+  {
+    "date": "2023-12-01",
+    "bank_credit": 158.25,
+    "deposits": 198.86,
+    "nonfood_credit": 157.84,
+    "credit_growth_yoy": 20.75
+  },
+  {
+    "date": "2023-12-15",
+    "bank_credit": 157.79,
+    "deposits": 197.92,
+    "nonfood_credit": 157.37,
+    "credit_growth_yoy": 19.96
+  },
+  {
+    "date": "2023-12-29",
+    "bank_credit": 159.62,
+    "deposits": 200.88,
+    "nonfood_credit": 159.19,
+    "credit_growth_yoy": 19.95
+  },
+  {
+    "date": "2024-01-12",
+    "bank_credit": 159.7,
+    "deposits": 199.85,
+    "nonfood_credit": 159.26,
+    "credit_growth_yoy": 20.28
+  },
+  {
+    "date": "2024-01-26",
+    "bank_credit": 160.44,
+    "deposits": 200.59,
+    "nonfood_credit": 159.98,
+    "credit_growth_yoy": 20.29
+  },
+  {
+    "date": "2024-02-09",
+    "bank_credit": 161.47,
+    "deposits": 201.95,
+    "nonfood_credit": 161.01,
+    "credit_growth_yoy": 20.34
+  },
+  {
+    "date": "2024-02-23",
+    "bank_credit": 162.14,
+    "deposits": 202.05,
+    "nonfood_credit": 161.74,
+    "credit_growth_yoy": 20.55
+  },
+  {
+    "date": "2024-03-08",
+    "bank_credit": 163.14,
+    "deposits": 204.2,
+    "nonfood_credit": 162.82,
+    "credit_growth_yoy": 20.41
+  },
+  {
+    "date": "2024-03-22",
+    "bank_credit": 164.32,
+    "deposits": 204.75,
+    "nonfood_credit": 164.09,
+    "credit_growth_yoy": 20.16
+  },
+  {
+    "date": "2024-04-05",
+    "bank_credit": 165.85,
+    "deposits": 210.01,
+    "nonfood_credit": 165.64,
+    "credit_growth_yoy": 19.74
+  },
+  {
+    "date": "2024-04-19",
+    "bank_credit": 164.92,
+    "deposits": 207.53,
+    "nonfood_credit": 164.74,
+    "credit_growth_yoy": 19.0
+  },
+  {
+    "date": "2024-05-03",
+    "bank_credit": 166.32,
+    "deposits": 209.38,
+    "nonfood_credit": 165.94,
+    "credit_growth_yoy": 19.65
+  },
+  {
+    "date": "2024-05-17",
+    "bank_credit": 166.01,
+    "deposits": 208.15,
+    "nonfood_credit": 165.6,
+    "credit_growth_yoy": 19.48
+  },
+  {
+    "date": "2024-05-31",
+    "bank_credit": 167.83,
+    "deposits": 210.87,
+    "nonfood_credit": 167.43,
+    "credit_growth_yoy": 19.79
+  },
+  {
+    "date": "2024-06-14",
+    "bank_credit": 167.06,
+    "deposits": 209.03,
+    "nonfood_credit": 166.69,
+    "credit_growth_yoy": 19.13
+  },
+  {
+    "date": "2024-06-28",
+    "bank_credit": 168.86,
+    "deposits": 212.85,
+    "nonfood_credit": 168.52,
+    "credit_growth_yoy": 17.39
+  },
+  {
+    "date": "2024-07-12",
+    "bank_credit": 168.12,
+    "deposits": 211.77,
+    "nonfood_credit": 167.82,
+    "credit_growth_yoy": 14.01
+  },
+  {
+    "date": "2024-07-26",
+    "bank_credit": 168.14,
+    "deposits": 211.94,
+    "nonfood_credit": 167.86,
+    "credit_growth_yoy": 13.71
+  },
+  {
+    "date": "2024-08-09",
+    "bank_credit": 168.8,
+    "deposits": 213.3,
+    "nonfood_credit": 168.52,
+    "credit_growth_yoy": 13.59
+  },
+  {
+    "date": "2024-08-23",
+    "bank_credit": 169.45,
+    "deposits": 213.25,
+    "nonfood_credit": 169.21,
+    "credit_growth_yoy": 13.6
+  },
+  {
+    "date": "2024-09-06",
+    "bank_credit": 170.47,
+    "deposits": 215.5,
+    "nonfood_credit": 170.25,
+    "credit_growth_yoy": 13.35
+  },
+  {
+    "date": "2024-09-20",
+    "bank_credit": 171.25,
+    "deposits": 215.06,
+    "nonfood_credit": 171.05,
+    "credit_growth_yoy": 13.03
+  },
+  {
+    "date": "2024-10-04",
+    "bank_credit": 172.98,
+    "deposits": 219.2,
+    "nonfood_credit": 172.8,
+    "credit_growth_yoy": 12.78
+  },
+  {
+    "date": "2024-10-18",
+    "bank_credit": 172.38,
+    "deposits": 218.08,
+    "nonfood_credit": 172.19,
+    "credit_growth_yoy": 11.52
+  },
+  {
+    "date": "2024-11-01",
+    "bank_credit": 174.2,
+    "deposits": 220.28,
+    "nonfood_credit": 173.89,
+    "credit_growth_yoy": 11.77
+  },
+  {
+    "date": "2024-11-15",
+    "bank_credit": 173.63,
+    "deposits": 218.56,
+    "nonfood_credit": 173.18,
+    "credit_growth_yoy": 11.15
+  },
+  {
+    "date": "2024-11-29",
+    "bank_credit": 175.09,
+    "deposits": 220.17,
+    "nonfood_credit": 174.58,
+    "credit_growth_yoy": 10.64
+  },
+  {
+    "date": "2024-12-13",
+    "bank_credit": 175.87,
+    "deposits": 220.68,
+    "nonfood_credit": 175.35,
+    "credit_growth_yoy": 11.46
+  },
+  {
+    "date": "2024-12-27",
+    "bank_credit": 177.43,
+    "deposits": 220.63,
+    "nonfood_credit": 176.87,
+    "credit_growth_yoy": 11.16
+  },
+  {
+    "date": "2025-01-10",
+    "bank_credit": 177.99,
+    "deposits": 221.51,
+    "nonfood_credit": 177.42,
+    "credit_growth_yoy": 11.45
+  },
+  {
+    "date": "2025-01-24",
+    "bank_credit": 178.68,
+    "deposits": 221.27,
+    "nonfood_credit": 178.12,
+    "credit_growth_yoy": 11.37
+  },
+  {
+    "date": "2025-02-07",
+    "bank_credit": 179.63,
+    "deposits": 223.25,
+    "nonfood_credit": 179.09,
+    "credit_growth_yoy": 11.25
+  },
+  {
+    "date": "2025-02-21",
+    "bank_credit": 179.9,
+    "deposits": 222.84,
+    "nonfood_credit": 179.43,
+    "credit_growth_yoy": 10.95
+  },
+  {
+    "date": "2025-03-07",
+    "bank_credit": 181.25,
+    "deposits": 225.1,
+    "nonfood_credit": 180.83,
+    "credit_growth_yoy": 11.1
+  },
+  {
+    "date": "2025-03-21",
+    "bank_credit": 182.44,
+    "deposits": 225.81,
+    "nonfood_credit": 182.07,
+    "credit_growth_yoy": 11.03
+  },
+  {
+    "date": "2025-04-04",
+    "bank_credit": 184.02,
+    "deposits": 231.16,
+    "nonfood_credit": 183.73,
+    "credit_growth_yoy": 10.96
+  },
+  {
+    "date": "2025-04-18",
+    "bank_credit": 181.88,
+    "deposits": 228.61,
+    "nonfood_credit": 181.56,
+    "credit_growth_yoy": 10.28
+  },
+  {
+    "date": "2025-05-02",
+    "bank_credit": 182.85,
+    "deposits": 230.34,
+    "nonfood_credit": 182.23,
+    "credit_growth_yoy": 9.94
+  },
+  {
+    "date": "2025-05-16",
+    "bank_credit": 182.28,
+    "deposits": 228.88,
+    "nonfood_credit": 181.6,
+    "credit_growth_yoy": 9.8
+  },
+  {
+    "date": "2025-05-30",
+    "bank_credit": 182.87,
+    "deposits": 231.73,
+    "nonfood_credit": 182.17,
+    "credit_growth_yoy": 8.96
+  },
+  {
+    "date": "2025-06-13",
+    "bank_credit": 183.14,
+    "deposits": 230.7,
+    "nonfood_credit": 182.46,
+    "credit_growth_yoy": 9.63
+  },
+  {
+    "date": "2025-06-27",
+    "bank_credit": 184.86,
+    "deposits": 234.26,
+    "nonfood_credit": 184.22,
+    "credit_growth_yoy": 9.48
+  },
+  {
+    "date": "2025-07-11",
+    "bank_credit": 184.7,
+    "deposits": 233.26,
+    "nonfood_credit": 184.11,
+    "credit_growth_yoy": 9.86
+  },
+  {
+    "date": "2025-07-25",
+    "bank_credit": 185.01,
+    "deposits": 233.5,
+    "nonfood_credit": 184.45,
+    "credit_growth_yoy": 10.03
+  },
+  {
+    "date": "2025-08-08",
+    "bank_credit": 186.06,
+    "deposits": 234.72,
+    "nonfood_credit": 185.54,
+    "credit_growth_yoy": 10.23
+  },
+  {
+    "date": "2025-08-22",
+    "bank_credit": 186.47,
+    "deposits": 235.04,
+    "nonfood_credit": 185.96,
+    "credit_growth_yoy": 10.04
+  },
+  {
+    "date": "2025-09-05",
+    "bank_credit": 188.01,
+    "deposits": 236.69,
+    "nonfood_credit": 187.55,
+    "credit_growth_yoy": 10.29
+  },
+  {
+    "date": "2025-09-19",
+    "bank_credit": 189.03,
+    "deposits": 235.46,
+    "nonfood_credit": 188.58,
+    "credit_growth_yoy": 10.38
+  },
+  {
+    "date": "2025-10-03",
+    "bank_credit": 192.61,
+    "deposits": 240.99,
+    "nonfood_credit": 192.19,
+    "credit_growth_yoy": 11.35
+  },
+  {
+    "date": "2025-10-17",
+    "bank_credit": 192.36,
+    "deposits": 238.83,
+    "nonfood_credit": 191.83,
+    "credit_growth_yoy": 11.59
+  },
+  {
+    "date": "2025-10-31",
+    "bank_credit": 193.94,
+    "deposits": 241.76,
+    "nonfood_credit": 193.23,
+    "credit_growth_yoy": 11.33
+  },
+  {
+    "date": "2025-11-14",
+    "bank_credit": 193.71,
+    "deposits": 240.94,
+    "nonfood_credit": 192.92,
+    "credit_growth_yoy": 11.56
+  },
+  {
+    "date": "2025-11-28",
+    "bank_credit": 195.29,
+    "deposits": 242.6,
+    "nonfood_credit": 193.7,
+    "credit_growth_yoy": 11.54
+  },
+  {
+    "date": "2025-12-15",
+    "bank_credit": 196.95,
+    "deposits": 241.32,
+    "nonfood_credit": 196.11,
+    "credit_growth_yoy": 11.99
+  },
+  {
+    "date": "2025-12-31",
+    "bank_credit": 203.21,
+    "deposits": 248.57,
+    "nonfood_credit": 201.45,
+    "credit_growth_yoy": 14.53
+  },
+  {
+    "date": "2026-01-15",
+    "bank_credit": 201.34,
+    "deposits": 245.0,
+    "nonfood_credit": 200.46,
+    "credit_growth_yoy": 13.12
+  },
+  {
+    "date": "2026-01-31",
+    "bank_credit": 204.75,
+    "deposits": 248.82,
+    "nonfood_credit": 202.97,
+    "credit_growth_yoy": 14.59
+  },
+  {
+    "date": "2026-02-15",
+    "bank_credit": 204.32,
+    "deposits": 247.74,
+    "nonfood_credit": 203.46,
+    "credit_growth_yoy": 13.74
+  },
+  {
+    "date": "2026-02-28",
+    "bank_credit": 207.51,
+    "deposits": 251.9,
+    "nonfood_credit": 205.86,
+    "credit_growth_yoy": 15.35
+  },
+  {
+    "date": "2026-03-15",
+    "bank_credit": 207.7,
+    "deposits": 250.11,
+    "nonfood_credit": 206.95,
+    "credit_growth_yoy": 14.59
+  },
+  {
+    "date": "2026-03-31",
+    "bank_credit": 213.6,
+    "deposits": 262.3,
+    "nonfood_credit": 212.9,
+    "credit_growth_yoy": 17.08
+  },
+  {
+    "date": "2026-04-15",
+    "bank_credit": 209.18,
+    "deposits": 256.48,
+    "nonfood_credit": 208.49,
+    "credit_growth_yoy": 13.67
+  },
+  {
+    "date": "2026-04-30",
+    "bank_credit": 212.12,
+    "deposits": 258.64,
+    "nonfood_credit": 211.08,
+    "credit_growth_yoy": 16.63
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "sector": "Agriculture",
+    "value": 22.87,
+    "share": 12.45
+  },
+  {
+    "sector": "Industry",
+    "value": 39.86,
+    "share": 21.7
+  },
+  {
+    "sector": "Micro & Small",
+    "value": 7.98,
+    "share": 4.34
+  },
+  {
+    "sector": "Medium",
+    "value": 3.63,
+    "share": 1.98
+  },
+  {
+    "sector": "Large",
+    "value": 28.24,
+    "share": 15.37
+  },
+  {
+    "sector": "Services",
+    "value": 50.94,
+    "share": 27.73
+  },
+  {
+    "sector": "Personal Loans",
+    "value": 59.72,
+    "share": 32.51
+  },
+  {
+    "sector": "Trade",
+    "value": 11.85,
+    "share": 6.45
+  },
+  {
+    "sector": "Commercial Real Estate",
+    "value": 5.23,
+    "share": 2.85
+  },
+  {
+    "sector": "NBFCs",
+    "value": 16.35,
+    "share": 8.9
+  }
+]
